@@ -1,0 +1,4 @@
+ID,e_1-1,e_1-2,e_1-3,e_1-4,eh_3-1,eh_3-2,eh_3-3,eh_3-4,ehd_4-1,ehd_4-2,ehd_4-3,ehd_4-4,h_2-1,h_2-2,h_2-3,h_2-4
+Condition,EVT_mono,EVT_mono,EVT_mono,EVT_mono,EVT_EC_CO,EVT_EC_CO,EVT_EC_CO,EVT_EC_CO,EVT_EC_DSC_TRI,EVT_EC_DSC_TRI,EVT_EC_DSC_TRI,EVT_EC_DSC_TRI,EC_mono,EC_mono,EC_mono,EC_mono
+replicate,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4
+sample_names,EVT_mono_1,EVT_mono_2,EVT_mono_3,EVT_mono_4,EVT_EC_CO_1,EVT_EC_CO_2,EVT_EC_CO_3,EVT_EC_CO_4,EVT_EC_DSC_TRI_1,EVT_EC_DSC_TRI_2,EVT_EC_DSC_TRI_3,EVT_EC_DSC_TRI_4,EC_mono_1,EC_mono_2,EC_mono_3,EC_mono_4

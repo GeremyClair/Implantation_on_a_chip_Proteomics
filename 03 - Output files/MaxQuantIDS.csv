@@ -1,0 +1,513 @@
+"","protein.ids","majority.protein.ids","peptide.counts..all.","peptide.counts..razor.unique.","peptide.counts..unique.","fasta.headers","number.of.proteins","peptides","razor...unique.peptides","unique.peptides"
+"1","H7C402;H3BT36;Q3T0Y5;A0A3Q1LX83;A0A024RA52;P25787","H7C402;H3BT36;Q3T0Y5;A0A3Q1LX83;A0A024RA52;P25787","1;1;1;1;1;1","1;1;1;1;1;1","1;1;1;1;1;1","Proteasome subunit alpha type-2 (Fragment);PROTEASOME_ALPHA_1 domain-containing protein;Proteasome subunit alpha type-2;Proteasome subunit alpha type;Proteasome subunit alpha type;Proteasome subunit alpha type-2",6,1,1,1
+"2","A0A075B736;Q5SQY0;Q3ZCM7","A0A075B736;Q5SQY0;Q3ZCM7","4;4;4","1;1;1","1;1;1","Tubulin beta chain;Tubulin beta chain;Tubulin beta-8 chain",3,4,1,1
+"3","E2QRB9;E9PIR7;F8W809;O62768;A0A087WSW9;A0A182DWI3;A0A087WSY9;Q16881","E2QRB9;E9PIR7;F8W809;O62768;A0A087WSW9;A0A182DWI3;A0A087WSY9;Q16881","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasmic;Thioredoxin reductase 1, cytoplasm",8,1,1,1
+"5","A0A087WTA8;P08123","A0A087WTA8;P08123","10;10","2;2","2;2","Collagen alpha-2(I) chain;Collagen alpha-2(I) chain",2,10,2,2
+"6","A0A087WVV1;A0A452DHV9;Q5E9K0;P49721","A0A087WVV1;A0A452DHV9;Q5E9K0;P49721","2;2;2;2","2;2;2;2","2;2;2;2","Proteasome subunit beta type-2;Proteasome subunit beta;Proteasome subunit beta type-2;Proteasome subunit beta type-2",4,2,2,2
+"7","A0A087X0S5;P12109","A0A087X0S5;P12109","20;20","9;9","9;9","Collagen alpha-1(VI) chain;Collagen alpha-1(VI) chain",2,20,9,9
+"8","A0A087X0T8;A0A3Q1MPQ1;A0A087X1W8;A0A0A0MTJ8;Q2TBL2;X5DQS5;Q9BY67","A0A087X0T8;A0A3Q1MPQ1;A0A087X1W8;A0A0A0MTJ8;Q2TBL2;X5DQS5;Q9BY67","1;1;1;1;1;1;1","1;1;1;1;1;1;1","1;1;1;1;1;1;1","Cell adhesion molecule 1;Cell adhesion molecule 1;Cell adhesion molecule 1;Cell adhesion molecule 1 (Fragment);Cell adhesion molecule 1;Cell adhesion molecule 1 (Fragment);Cell adhesion molecule 1",7,1,1,1
+"9","Q3ZBX9;A1A4R1;P0C0S9;F2Z4J1;F2Z4G5;F1MLQ1;E1BH22;A4IFU5;A0A0A0MP93;A0A0A0MP90;F1MRN2;A0A3Q1N7K2;A0A3Q1MF62;A0A096LNF2;A0A3Q1MDK7;A0A0U1RR32;A0A0U1RRH7;Q99878;Q96KK5;Q9BTM1;Q16777;Q93077;Q7L7L0;Q6FI13;P20671;P0C0S8;P04908;H0YFX9;A0A3Q1N0B0;C9J0D1;A0A494C189;Q32LA7;P0C0S4;F2Z4I6;A0A3B3IS11;Q71UI9;P0C0S5;Q8IUE6;Q96QV6;P16104","Q3ZBX9;A1A4R1;P0C0S9;F2Z4J1;F2Z4G5;F1MLQ1;E1BH22;A4IFU5;A0A0A0MP93;A0A0A0MP90;F1MRN2;A0A3Q1N7K2;A0A3Q1MF62;A0A096LNF2;A0A3Q1MDK7;A0A0U1RR32;A0A0U1RRH7;Q99878;Q96KK5;Q9BTM1;Q16777;Q93077;Q7L7L0;Q6FI13;P20671;P0C0S8;P04908;H0YFX9;A0A3Q1N0B0;C9J0D1;A0A494C189;Q32LA7;P0C0S4;F2Z4I6;A0A3B3IS11;Q71UI9;P0C0S5;Q8IUE6;Q96QV6;P16104","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1","Histone H2A.J;Histone H2A type 2-C;Histone H2A type 1;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A;Histone H2A type 1-J;Histone H2A t",40,2,2,2
+"11","A0A0A0MPA0","A0A0A0MPA0","21","13","7","SERPIN domain-containing protein",1,21,13,7
+"12","G8JL96;A0A0A0MR60;A0A3Q1MJQ2;A0A3Q1LNY4;E1BIU8;A0A3Q1N3J5;A0A3Q1MZF8;Q13332","G8JL96;A0A0A0MR60;A0A3Q1MJQ2;A0A3Q1LNY4;E1BIU8;A0A3Q1N3J5;A0A3Q1MZF8;Q13332","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","Receptor-type tyrosine-protein phosphatase S;Receptor-type tyrosine-protein phosphatase S;Protein tyrosine phosphatase receptor type S;Protein tyrosine phosphatase receptor type S;Protein tyrosine phosphatase receptor type S;Protein tyrosine phosphatase re",8,1,1,1
+"13","A0A0A0MSI0;Q5E947;Q06830;A0A3Q1MIR5;A0A0A0MRQ5","A0A0A0MSI0;Q5E947;Q06830;A0A3Q1MIR5;A0A0A0MRQ5","3;3;3;2;2","3;3;3;2;2","2;2;2;1;1","Peroxiredoxin-1 (Fragment);Peroxiredoxin-1;Peroxiredoxin-1;1-cysPrx_C domain-containing protein;Peroxiredoxin-1",5,3,3,2
+"14","J3KPG2;E9PJF7;Q5E984;Q5W0H4;A0A0B4J2C3;A0A452DID1;Q56UQ5;P13693;H0YCX0","J3KPG2;E9PJF7;Q5E984;Q5W0H4;A0A0B4J2C3;A0A452DID1;Q56UQ5;P13693;H0YCX0","2;2;2;2;2;2;2;2;1","2;2;2;2;2;2;2;2;1","2;2;2;2;2;2;2;2;1","Translationally-controlled tumor protein;Translationally-controlled tumor protein (Fragment);Translationally-controlled tumor protein;Translationally-controlled tumor protein;Translationally-controlled tumor protein;Translationally-controlled tumor protein",9,2,2,2
+"16","A0A3Q1N0K0;Q5T321;F1MF64;A0A0D9SF28;F5GXV7;A0A3Q1MIS5;Q8NFP9","A0A3Q1N0K0;Q5T321;F1MF64;A0A0D9SF28;F5GXV7;A0A3Q1MIS5;Q8NFP9","1;1;1;1;1;1;1","1;1;1;1;1;1;1","1;1;1;1;1;1;1","Neurobeachin;Neurobeachin;Neurobeachin;Neurobeachin;Neurobeachin;Neurobeachin;Neurobeachin",7,1,1,1
+"17","Q28022;A0A3Q1LT53;A0A3Q1MF64;A0A3Q1MGN3;A0A140T828","Q28022;A0A3Q1LT53;A0A3Q1MF64;A0A3Q1MGN3;A0A140T828","2;2;2;2;2","2;2;2;2;2","2;2;2;2;2","Microfibrillar-associated protein 5;Microfibrillar-associated protein 5;Microfibrillar-associated protein 5;Microfibrillar-associated protein 5;Microfibrillar-associated protein 5",5,2,2,2
+"18","P23795;A0A140T835;F1MIM4;F8WAR7;C9J2S3;F8WD68;C9JZL6;P22303","P23795;A0A140T835;F1MIM4;F8WAR7;C9J2S3;F8WD68;C9JZL6;P22303","2;2;2;1;1;1;1;1","2;2;2;1;1;1;1;1","2;2;2;1;1;1;1;1","Acetylcholinesterase;Carboxylic ester hydrolase;Carboxylic ester hydrolase;Carboxylic ester hydrolase;Carboxylic ester hydrolase (Fragment);Carboxylic ester hydrolase;Carboxylic ester hydrolase (Fragment);Acetylcholinesterase",8,2,2,2
+"20","A0A140T851;A0A3Q1M616;P00745","A0A140T851;A0A3Q1M616;P00745","14;14;13","14;14;13","14;14;13","Vitamin K-dependent protein C;Vitamin K-dependent protein C;Vitamin K-dependent protein C (Fragment)",3,14,14,14
+"21","Q28035;A0A140T854;A0A3Q1MEC8;F1MX44;E1BGC0;E1BKD8","Q28035;A0A140T854;A0A3Q1MEC8","5;5;5;2;1;1","5;5;5;2;1;1","2;2;2;0;0;0","Glutathione S-transferase A1;Glutathione S-transferase;Glutathione S-transferase",6,5,5,2
+"23","A0A140T891;O95497","A0A140T891","19;3","1;0","1;0","Pantetheinase",2,19,1,1
+"25","Q9XSG3;A0A140T8A5;O75874;C9JJE5;C9JLU6;C9J4N6","Q9XSG3;A0A140T8A5;O75874;C9JJE5;C9JLU6;C9J4N6","4;4;4;2;2;2","4;4;4;2;2;2","4;4;4;2;2;2","Isocitrate dehydrogenase [NADP] cytoplasmic;Isocitrate dehydrogenase [NADP];Isocitrate dehydrogenase [NADP] cytoplasmic;Isocitrate dehydrogenase [NADP] cytoplasmic (Fragment);Isocitrate dehydrogenase [NADP] cytoplasmic (Fragment);Isocitrate dehydrogenase [",6,4,4,4
+"28","Q95M12;A0A140T8D4","Q95M12;A0A140T8D4","2;2","2;2","2;2","Legumain;Legumain",2,2,2,2
+"29","A0A590UJB9;A0A590UK79;A0A2R8YGX3;F6QQ60;A0A2R8Y5V9;P67936","A0A590UJB9;A0A590UK79;A0A2R8YGX3;F6QQ60;A0A2R8Y5V9;P67936","3;3;3;3;3;3","3;3;3;3;3;3","3;3;3;3;3;3","Tropomyosin alpha-4 chain;Tropomyosin alpha-4 chain;Tropomyosin alpha-4 chain;Tropomyosin 4;Tropomyosin alpha-4 chain;Tropomyosin alpha-4 chain",6,3,3,3
+"30","A0A3B0IZF8","A0A3B0IZF8","2","2","2","Adiponectin B",1,2,2,2
+"31","A0A3B3IS80;Q3T0S5;A5PK73;G3MXL6;P05062;A0A3Q1MFK7;A0A087WXX2;A0A3B3ITZ0","A0A3B3IS80;Q3T0S5;A5PK73;G3MXL6;P05062;A0A3Q1MFK7;A0A087WXX2","5;5;5;5;5;4;3;1","5;5;5;5;5;4;3;1","5;5;5;5;5;4;3;1","Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase B;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase B;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase",8,5,5,5
+"32","A0A3B3ISV3;A0A3Q1LZV6;Q7SIB2;P02462;F1N474;A0A3Q1M0M2;A0A3Q1M970;P29400","A0A3B3ISV3;A0A3Q1LZV6;Q7SIB2;P02462","3;3;3;3;1;1;1;1","3;3;3;3;1;1;1;1","3;3;3;3;1;1;1;1","Collagen alpha-1(IV) chain (Fragment);Collagen alpha-1(IV) chain;Collagen alpha-1(IV) chain;Collagen alpha-1(IV) chain",8,3,3,3
+"33","A0A3B3IU24;F1N152;A0A452DI93;Q92743;H0Y7G9","A0A3B3IU24;F1N152;A0A452DI93;Q92743;H0Y7G9","2;2;2;2;1","2;2;2;2;1","2;2;2;2;1","Serine protease HTRA1;Serine protease HTRA1;Serine protease HTRA1;Serine protease HTRA1;Serine protease HTRA1 (Fragment)",5,2,2,2
+"35","A0A3Q1MP40;A0A3Q1LI40;F1N045;P10643","A0A3Q1MP40;A0A3Q1LI40;F1N045","45;45;41;7","45;45;41;7","1;1;1;0","Complement component C7;Complement component C7;Complement component C7",4,45,45,1
+"36","A0A3Q1LI44;G3X7I5;A0A5H1ZRS2;A0A087X0Q4;G5E6I6;A0A075B6P5;A0A087WW87;A0A3Q1LL87;A0A3Q1LP51;P01615;P01614","A0A3Q1LI44","5;2;1;1;1;1;1;1;1;1;1","5;2;1;1;1;1;1;1;1;1;1","2;0;0;0;0;0;0;0;0;0;0","Ig-like domain-containing protein",11,5,5,2
+"37","Q3SYW7;A0A3Q1LIS3;Q14515","Q3SYW7;A0A3Q1LIS3","6;6;1","6;6;1","6;6;1","SPARC like 1;SPARC like 1",3,6,6,6
+"38","A0A3Q1MPD2;A0A3Q1LIW2;A0A3Q1LLF1;A0A3Q1LKE5;F1MRZ6;A0A3Q1M1X4;A0A3Q1LTF1;F1MRZ5;A0A3Q1LU83;A0A3Q1NBB0;F5H7V9;E9PC84;J3QSU6;P24821","A0A3Q1MPD2;A0A3Q1LIW2;A0A3Q1LLF1;A0A3Q1LKE5;F1MRZ6;A0A3Q1M1X4;A0A3Q1LTF1;F1MRZ5;A0A3Q1LU83;A0A3Q1NBB0","4;4;4;4;4;3;3;3;3;3;1;1;1;1","4;4;4;4;4;3;3;3;3;3;1;1;1;1","4;4;4;4;4;3;3;3;3;3;1;1;1;1","Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C;Tenascin C",14,4,4,4
+"39","A0A3Q1LJT1","A0A3Q1LJT1","3","3","3","Ig-like domain-containing protein",1,3,3,3
+"40","E1BB08;A0A3Q1LJU5","E1BB08;A0A3Q1LJU5","1;1","1;1","1;1","EMAP like 2;EMAP like 2",2,1,1,1
+"41","Q8SQA4;A6QNW8;A0A3Q1LKL7;F6R6T6;F1MCN3;A0A3Q1M0R0","Q8SQA4;A6QNW8;A0A3Q1LKL7;F6R6T6;F1MCN3;A0A3Q1M0R0","2;2;2;2;2;2","2;2;2;2;2;2","2;2;2;2;2;2","Adhesion G protein-coupled receptor E5;Adhesion G protein-coupled receptor E5;Adhesion G protein-coupled receptor E5;Adhesion G protein-coupled receptor E5;Adhesion G protein-coupled receptor E5;Adhesion G protein-coupled receptor E5",6,2,2,2
+"42","A0A3Q1MUF0;A0A3Q1LL95;F1N2Y2;A0A3Q1LSX2;A0A3Q1MDT9","A0A3Q1MUF0;A0A3Q1LL95;F1N2Y2;A0A3Q1LSX2;A0A3Q1MDT9","3;3;3;3;3","3;3;3;3;3","1;1;1;1;1","Collagen type V alpha 2 chain;Collagen type V alpha 2 chain;Collagen type V alpha 2 chain;Collagen type V alpha 2 chain;Collagen type V alpha 2 chain",5,3,3,1
+"43","G3MWT1;A0A3Q1LLT0","G3MWT1;A0A3Q1LLT0","2;2","1;1","1;1","Ig-like domain-containing protein;Ig-like domain-containing protein",2,2,1,1
+"44","A0A3Q1LLU1;F1N0R5;P80012","A0A3Q1LLU1;F1N0R5","36;36;17","36;36;17","33;33;16","von Willebrand factor;von Willebrand factor",3,36,36,33
+"45","G3X807;G3N081;P62803;E1B7N2;A0A3Q1MEZ8;E1BBP7;A0A3Q1MH02;A0A3Q1MDT7;A0A3Q1M1Z1;A0A3Q1LM20;A0A3Q1MJQ1;P62805;A0A452DJ35;A0A3Q1NHG3;A0A3Q1M8Q4;E1BLC2;A0A3Q1N666;A0A452DJB2;G3N2B8;E1B9M9;A0A3Q1LMV7;A0A452DJJ1;A0A3Q1MEY7;A0A3Q1MFY5;A0A452DJ40;G3MYX0","G3X807;G3N081;P62803;E1B7N2;A0A3Q1MEZ8;E1BBP7;A0A3Q1MH02;A0A3Q1MDT7;A0A3Q1M1Z1;A0A3Q1LM20;A0A3Q1MJQ1;P62805;A0A452DJ35;A0A3Q1NHG3;A0A3Q1M8Q4;E1BLC2;A0A3Q1N666;A0A452DJB2;G3N2B8;E1B9M9;A0A3Q1LMV7;A0A452DJJ1;A0A3Q1MEY7;A0A3Q1MFY5;A0A452DJ40","3;3;3;3;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;2;2;1","3;3;3;3;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;2;2;1","3;3;3;3;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;2;2;1","Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;Histone H4;His",26,3,3,3
+"46","Q29RU4;F1MM86;A0A3Q1LM32;REV__Q1JQ92;REV__G1K1B6;REV__A0A3Q1NAH3","Q29RU4;F1MM86;A0A3Q1LM32","12;12;12;1;1;1","12;12;12;1;1;1","12;12;12;1;1;1","Complement component C6;Complement component C6;Complement component C6",6,12,12,12
+"48","A6QLL8;A0A3Q1LMG1","A6QLL8;A0A3Q1LMG1","12;12","12;12","4;4","Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase",2,12,12,4
+"49","P28801;A0A3Q1LMV5;A0A087X2E9;A8MX94;A0A452DHY4;P09211","P28801;A0A3Q1LMV5","3;3;1;1;1;1","3;3;1;1;1;1","3;3;1;1;1;1","Glutathione S-transferase P;Glutathione S-transferase P",6,3,3,3
+"50","A0A3Q1LMZ4;A0A3Q1N521;A0A3Q1MFP4;A0A3Q1MBF0;F1MNL4;Q92859;Q59FP8","A0A3Q1LMZ4;A0A3Q1N521;A0A3Q1MFP4;A0A3Q1MBF0;F1MNL4;Q92859;Q59FP8","6;6;6;6;6;4;3","6;6;6;6;6;4;3","6;6;6;6;6;4;3","Neogenin 1;Neogenin 1;Neogenin 1;Neogenin 1;Neogenin 1;Neogenin;Neogenin (Fragment)",7,6,6,6
+"51","Q1JPB0;A0A3Q1LN63","Q1JPB0;A0A3Q1LN63","3;3","3;3","3;3","Leukocyte elastase inhibitor;Leukocyte elastase inhibitor",2,3,3,3
+"53","A0A3Q1LPG0","A0A3Q1LPG0","10","10","10","Uncharacterized protein",1,10,10,10
+"54","H7BZ94;A0A3Q1LPQ0;P05307;F6Q9Q9;P07237;I3L398;I3L4M2;H0Y3Z3;I3L0S0;I3NI03;I3L3U6;I3L312","H7BZ94;A0A3Q1LPQ0;P05307;F6Q9Q9;P07237;I3L398;I3L4M2;H0Y3Z3","5;5;5;5;5;4;3;3;1;1;1;1","5;5;5;5;5;4;3;3;1;1;1;1","5;5;5;5;5;4;3;3;1;1;1;1","Protein disulfide-isomerase;Protein disulfide-isomerase;Protein disulfide-isomerase;Protein disulfide-isomerase;Protein disulfide-isomerase;Protein disulfide-isomerase (Fragment);Protein disulfide-isomerase (Fragment);Protein disulfide-isomerase (Fragment)",12,5,5,5
+"56","F6PSK5;A0A3Q1MKU4;A0A3Q1LQK2;E1BFL8;C9J1D9;Q9NPH3;C9JT28","F6PSK5;A0A3Q1MKU4;A0A3Q1LQK2;E1BFL8;C9J1D9;Q9NPH3","6;6;6;6;3;3;2","6;6;6;6;3;3;2","6;6;6;6;3;3;2","Interleukin 1 receptor accessory protein;Interleukin 1 receptor accessory protein;Interleukin 1 receptor accessory protein;Interleukin 1 receptor accessory protein;Interleukin-1 receptor accessory protein (Fragment);Interleukin-1 receptor accessory protein",7,6,6,6
+"57","A0A3Q1LQU4;F1N7D7;A0A3Q1MDA4;O18738;Q14118","A0A3Q1LQU4;F1N7D7;A0A3Q1MDA4;O18738","3;3;3;2;1","3;3;3;2;1","3;3;3;2;1","Dystroglycan;Dystroglycan;Dystroglycan;Dystroglycan",5,3,3,3
+"58","G3X6M3;G3X6M2;G5E685;A0A3Q1LQX2","G3X6M3;G3X6M2;G5E685;A0A3Q1LQX2","3;3;3;3","3;3;3;3","3;3;3;3","Uncharacterized protein;Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",4,3,3,3
+"59","Q08DP0;A0A3Q1LRD1;F1MJS4;A0A3B3ITK7;P36871","Q08DP0;A0A3Q1LRD1;F1MJS4;A0A3B3ITK7;P36871","4;4;3;2;2","4;4;3;2;2","4;4;3;2;2","Phosphoglucomutase-1;Phosphoglucomutase-1;Phosphoglucomutase-1;Phosphoglucomutase-1;Phosphoglucomutase-1",5,4,4,4
+"60","A0A3Q1LRP4;A5PKH3;A0A3Q1NHX4;F1MYZ7;A0A3Q1MPJ4","A0A3Q1LRP4;A5PKH3;A0A3Q1NHX4;F1MYZ7;A0A3Q1MPJ4","3;3;3;3;3","3;3;3;3;3","3;3;3;3;3","Fumarylacetoacetase;Fumarylacetoacetase;Fumarylacetoacetase;Fumarylacetoacetase;Fumarylacetoacetase",5,3,3,3
+"61","A4FUZ1;A0A3Q1LS06;Q04760","A4FUZ1;A0A3Q1LS06;Q04760","2;2;1","2;2;1","2;2;1","Lactoylglutathione lyase;Lactoylglutathione lyase;Lactoylglutathione lyase",3,2,2,2
+"62","A0A3Q1LS20;F1MX50","A0A3Q1LS20;F1MX50","1;1","1;1","1;1","Cellular repressor of E1A stimulated genes 1;Cellular repressor of E1A stimulated genes 1",2,1,1,1
+"63","A0A3Q1LS74;A0A3Q1MP45;A0A3Q1LKA0;A0A3Q1LT86;A0A3Q1N4H3","A0A3Q1LS74;A0A3Q1MP45","66;66;11;6;5","6;6;1;0;0","6;6;1;0;0","Complement factor H;Complement factor H",5,66,6,6
+"64","A0A3Q1LSC6","A0A3Q1LSC6","1","1","1","Uncharacterized protein",1,1,1,1
+"65","A0A3Q1LSN0;F1MYX5;P13796;A0A0A0MSQ0;A7E3Q8;F1MSB7;P13797;U3KQI3;Q5TBN3","A0A3Q1LSN0;F1MYX5;P13796","6;6;4;2;2;2;2;1;1","6;6;4;2;2;2;2;1;1","6;6;4;2;2;2;2;1;1","Lymphocyte cytosolic protein 1;Lymphocyte cytosolic protein 1;Plastin-2",9,6,6,6
+"66","A0A3Q1LSP4;F1MX87;P07357","A0A3Q1LSP4;F1MX87","23;23;1","23;23;1","23;23;1","Complement C8 alpha chain;Complement C8 alpha chain",3,23,23,23
+"67","A0A3Q1LSS3;Q2TA49;A0A3Q1MKR0;P50552;K7ENR7;K7ENL7","A0A3Q1LSS3;Q2TA49;A0A3Q1MKR0;P50552","3;3;2;2;1;1","3;3;2;2;1;1","3;3;2;2;1;1","Vasodilator-stimulated phosphoprotein;Vasodilator-stimulated phosphoprotein;Vasodilator-stimulated phosphoprotein;Vasodilator-stimulated phosphoprotein",6,3,3,3
+"68","A0A3Q1LTJ1;Q3SWX5;D6RF86;P55285","A0A3Q1LTJ1;Q3SWX5;D6RF86;P55285","5;5;3;3","5;5;3;3","5;5;3;3","Cadherin-6;Cadherin-6;Cadherin-6;Cadherin-6",4,5,5,5
+"69","A0A5F9ZGZ8;A0A5F9ZH72;A0A5F9ZHJ1;A0A5F9ZH31;F1N468;A0A5K1VW54;A0A3Q1LTP0;A0A5K1VW94;A0A3Q1MB39;P55263","A0A5F9ZGZ8;A0A5F9ZH72;A0A5F9ZHJ1;A0A5F9ZH31;F1N468;A0A5K1VW54;A0A3Q1LTP0;A0A5K1VW94;A0A3Q1MB39;P55263","2;2;2;2;2;2;2;2;2;2","2;2;2;2;2;2;2;2;2;2","2;2;2;2;2;2;2;2;2;2","Adenosine kinase (Fragment);Adenosine kinase;Adenosine kinase;Adenosine kinase;PfkB domain-containing protein;Adenosine kinase;PfkB domain-containing protein;Adenosine kinase;PfkB domain-containing protein;Adenosine kinase",10,2,2,2
+"70","Q05718;F1MUK3;A0A3Q1LTP5","Q05718;F1MUK3;A0A3Q1LTP5","2;2;2","2;2;2","2;2;2","Insulin-like growth factor-binding protein 6;Insulin-like growth factor-binding protein 6;Insulin-like growth factor-binding protein 6",3,2,2,2
+"71","A0A3Q1N0F2;A0A3Q1MIM0;A0A3Q1LTQ5;F1MXE0;A0A3Q1MUN7","A0A3Q1N0F2;A0A3Q1MIM0;A0A3Q1LTQ5;F1MXE0;A0A3Q1MUN7","3;3;3;3;2","3;3;3;3;2","3;3;3;3;2","Heart development protein with EGF like domains 1;Heart development protein with EGF like domains 1;Heart development protein with EGF like domains 1;Heart development protein with EGF like domains 1;Heart development protein with EGF like domains 1",5,3,3,3
+"72","V9GYG0;A0A3Q1ME66;A0A3Q1MP50;A0A3Q1MF55;Q8SQH5;P32007;P02722;A0A3Q1MWD4;A0A3Q1LTX1;Q2YDD9;F1MDK8;P12236;P12235;P05141;Q9H0C2","V9GYG0;A0A3Q1ME66;A0A3Q1MP50;A0A3Q1MF55;Q8SQH5;P32007;P02722;A0A3Q1MWD4;A0A3Q1LTX1;Q2YDD9;F1MDK8;P12236;P12235;P05141;Q9H0C2","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","ADP/ATP translocase 1;Uncharacterized protein;Uncharacterized protein;ADP/ATP translocase 2;ADP/ATP translocase 2;ADP/ATP translocase 3;ADP/ATP translocase 1;ADP/ATP translocase 2;Uncharacterized protein;ADP/ATP translocase 4;ADP/ATP translocase 4;ADP/ATP ",15,1,1,1
+"73","A0A3Q1LU84;F6QN80","A0A3Q1LU84;F6QN80","2;2","2;2","2;2","Ig-like domain-containing protein;Ig-like domain-containing protein",2,2,2,2
+"74","A0A3Q1LUC5;F1MEG3;A0A3Q1MIP0;A0A3Q1N0A0;A0A3Q1LWX8;A0A3Q1N1Y2;A0A3Q1MF58","A0A3Q1LUC5;F1MEG3;A0A3Q1MIP0;A0A3Q1N0A0;A0A3Q1LWX8;A0A3Q1N1Y2;A0A3Q1MF58","10;10;9;9;9;9;6","2;2;2;2;2;2;1","2;2;2;2;2;2;1","Laminin subunit alpha 1;Laminin subunit alpha 1;Laminin subunit alpha 1;Laminin subunit alpha 1;Laminin subunit alpha 1;Laminin subunit alpha 1;Laminin subunit alpha 1",7,10,2,2
+"75","A0A3Q1LWV8;A0A3Q1LUE9","A0A3Q1LWV8;A0A3Q1LUE9","4;4","2;2","2;2","Ig-like domain-containing protein;Ig-like domain-containing protein",2,4,2,2
+"76","A0A3Q1LUJ4;A0JN47;Q6UX71","A0A3Q1LUJ4;A0JN47;Q6UX71","3;3;3","3;3;3","3;3;3","Plexin domain containing 2;Plexin domain containing 2;Plexin domain-containing protein 2",3,3,3,3
+"77","O46414;A0A3Q1LVU1;A0A3Q1MNC0;E9PPQ4;E9PRK8;A0A3Q1MJ65;G3V1D1;G3V192;A0A3Q1NGZ9;P02794","O46414;A0A3Q1LVU1;A0A3Q1MNC0;E9PPQ4;E9PRK8;A0A3Q1MJ65;G3V1D1;G3V192;A0A3Q1NGZ9;P02794","2;2;2;1;1;1;1;1;1;1","2;2;2;1;1;1;1;1;1;1","2;2;2;1;1;1;1;1;1;1","Ferritin heavy chain;Ferritin;Ferritin;Ferritin (Fragment);Ferritin;Ferritin;Ferritin;Ferritin;Ferritin;Ferritin heavy chain",10,2,2,2
+"78","A0A3Q1MQZ5;A0A3Q1LW12;F1MNM2;A0A3Q1MEX6","A0A3Q1MQZ5;A0A3Q1LW12;F1MNM2;A0A3Q1MEX6","17;17;17;16","3;3;3;3","3;3;3;3","Phosphatidylinositol-glycan-specific phospholipase D;Phosphatidylinositol-glycan-specific phospholipase D;Phosphatidylinositol-glycan-specific phospholipase D;Phosphatidylinositol-glycan-specific phospholipase D",4,17,3,3
+"79","A0A3Q1MUA3;F1MUC5;A0A3Q1M4P8;A0A3Q1LXM2;A0A3Q1M0N0;A0A087X0K0;P39059","A0A3Q1MUA3;F1MUC5;A0A3Q1M4P8;A0A3Q1LXM2;A0A3Q1M0N0","3;3;3;3;3;1;1","3;3;3;3;3;1;1","3;3;3;3;3;1;1","Collagen type XV alpha 1 chain;Collagen type XV alpha 1 chain;Collagen type XV alpha 1 chain;Collagen type XV alpha 1 chain;Collagen type XV alpha 1 chain",7,3,3,3
+"80","A0A3Q1LYS8;A0A3Q1M2M4;A0A3Q1MWK8;A1A4K5;E5RIA2;E7EUF1;Q13822","A0A3Q1LYS8;A0A3Q1M2M4;A0A3Q1MWK8;A1A4K5","9;9;9;9;3;3;3","9;9;9;9;3;3;3","9;9;9;9;3;3;3","Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;Ectonucleotide pyrophosphatase/phosphodiesterase family membe",7,9,9,9
+"81","F1MDS0;G3MYM8;A0A3Q1M1S2;A0A3Q1LZ67;Q92954","F1MDS0;G3MYM8;A0A3Q1M1S2;A0A3Q1LZ67;Q92954","6;6;6;6;3","6;6;6;6;3","6;6;6;6;3","Proteoglycan 4;Proteoglycan 4;Proteoglycan 4;Proteoglycan 4;Proteoglycan 4",5,6,6,6
+"82","A0A3Q1LZ90","A0A3Q1LZ90","2","2","1","Ig-like domain-containing protein",1,2,2,1
+"83","A0A3Q1NA44;A0A3Q1LZN8;P02465","A0A3Q1NA44;A0A3Q1LZN8;P02465","15;15;15","15;15;15","7;7;7","Collagen alpha-2(I) chain;Collagen alpha-2(I) chain;Collagen alpha-2(I) chain",3,15,15,7
+"84","Q3T173;G3MZ95;F1MR86;A0A3Q1LZP8","Q3T173;G3MZ95;F1MR86;A0A3Q1LZP8","1;1;1;1","1;1;1;1","1;1;1;1","Four and a half LIM domains 1;Four and a half LIM domains 1;Four and a half LIM domains 1;Four and a half LIM domains 1",4,1,1,1
+"86","A0A3Q1LZT0","A0A3Q1LZT0","1","1","1","KIAA1671",1,1,1,1
+"88","P04815;A0A3Q1MBE1;A0A3Q1M0F4;P00974;P00975;A6QPK7;A0A3Q1LPM0","P04815;A0A3Q1MBE1;A0A3Q1M0F4;P00974","4;4;4;2;1;1;1","4;4;4;2;1;1;1","4;4;4;2;1;1;1","Spleen trypsin inhibitor I;BPTI/Kunitz inhibitor domain-containing protein;BPTI/Kunitz inhibitor domain-containing protein;Pancreatic trypsin inhibitor",7,4,4,4
+"89","A0A3Q1M0H5;F1MFJ3;G3MXS7;P23470","A0A3Q1M0H5;F1MFJ3;G3MXS7","3;3;3;1","3;3;3;1","3;3;3;1","Protein tyrosine phosphatase receptor type G;Protein tyrosine phosphatase receptor type G;Protein tyrosine phosphatase receptor type G",4,3,3,3
+"90","A0A3Q1MIL5;A0A3Q1M0K3","A0A3Q1MIL5;A0A3Q1M0K3","4;4","2;2","2;2","Ig-like domain-containing protein;Ig-like domain-containing protein",2,4,2,2
+"91","J3KTN0;J3QLN6;J3QR64;J3KSZ0;J3KTB5;J3QL43;J3QS69;J3KT12;E7EQG2;A0A3Q1M0L3;Q3SZ54;Q3SZ65;P60842;Q14240","J3KTN0;J3QLN6;J3QR64;J3KSZ0;J3KTB5;J3QL43;J3QS69;J3KT12;E7EQG2;A0A3Q1M0L3;Q3SZ54;Q3SZ65;P60842;Q14240","1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1","Eukaryotic initiation factor 4A-I (Fragment);Eukaryotic initiation factor 4A-I (Fragment);Eukaryotic initiation factor 4A-I (Fragment);Eukaryotic initiation factor 4A-I (Fragment);Eukaryotic initiation factor 4A-I (Fragment);Eukaryotic initiation factor 4A",14,1,1,1
+"92","A0A3Q1M0L5","A0A3Q1M0L5","7","7","7","Uncharacterized protein",1,7,7,7
+"93","F1MX81;Q06805;A0A3Q1M0U5;P35590","F1MX81;Q06805;A0A3Q1M0U5","7;7;7;1","7;7;7;1","7;7;7;1","Tyrosine-protein kinase receptor Tie-1;Tyrosine-protein kinase receptor Tie-1;Tyrosine-protein kinase receptor Tie-1",4,7,7,7
+"94","A0A3Q1M0W4;E1B9H5;Q03167","A0A3Q1M0W4;E1B9H5","3;3;1","3;3;1","3;3;1","Transforming growth factor beta receptor 3;Transforming growth factor beta receptor 3",3,3,3,3
+"95","A0A3Q1M119;P62261;A0A3Q1MP67;P62258;K7EM20","A0A3Q1M119;P62261;A0A3Q1MP67;P62258;K7EM20","4;4;4;4;2","2;2;2;2;1","2;2;2;2;1","14-3-3 protein epsilon;14-3-3 protein epsilon;14-3-3 protein epsilon;14-3-3 protein epsilon;14-3-3 protein epsilon (Fragment)",5,4,2,2
+"96","A0A3Q1M2P3;A0A3Q1NA32;Q0VCM4;A0A3Q1M168;E9PK47;P06737;P11216;P79334;F1MJ28;Q3B7M9;F1MU24;P11217","A0A3Q1M2P3;A0A3Q1NA32;Q0VCM4;A0A3Q1M168;E9PK47;P06737","5;5;5;5;3;3;2;1;1;1;1;1","5;5;5;5;3;3;2;1;1;1;1;1","5;5;5;5;3;3;2;1;1;1;1;1","Alpha-1,4 glucan phosphorylase;Alpha-1,4 glucan phosphorylase;Glycogen phosphorylase, liver form;Alpha-1,4 glucan phosphorylase;Alpha-1,4 glucan phosphorylase;Glycogen phosphorylase, liver form",12,5,5,5
+"97","A0A3Q1M193;F1N726","A0A3Q1M193;F1N726","1;1","1;1","1;1","Glycoprotein 2;Glycoprotein 2",2,1,1,1
+"98","A0A3Q1M1Z2;A0A452DIH7;P81948;P68366;C9JEV8;C9JQ00;C9JJQ8;C9JDL2;C9JDS9;C9K0S6;Q9H853;A6NHL2","A0A3Q1M1Z2;A0A452DIH7;P81948;P68366","12;12;12;12;5;5;5;4;4;2;1;1","3;3;3;3;3;3;3;2;0;0;0;0","3;3;3;3;3;3;3;2;0;0;0;0","Tubulin alpha chain;Tubulin alpha chain;Tubulin alpha-4A chain;Tubulin alpha-4A chain",12,12,3,3
+"99","A0A3Q1M2M5;A0A3Q1MII1;A0A3Q1NDP4;F1MW33","A0A3Q1M2M5;A0A3Q1MII1;A0A3Q1NDP4;F1MW33","1;1;1;1","1;1;1;1","1;1;1;1","Cell adhesion molecule L1 like;Cell adhesion molecule L1 like;Cell adhesion molecule L1 like;Cell adhesion molecule L1 like",4,1,1,1
+"100","A0A3Q1MHU8;Q17QC8;A0A3Q1M2R9","A0A3Q1MHU8;Q17QC8;A0A3Q1M2R9","9;9;9","9;9;9","9;9;9","Complement factor properdin;Complement factor properdin;Complement factor properdin",3,9,9,9
+"101","A0A3Q1M315","A0A3Q1M315","10","8","3","Uncharacterized protein",1,10,8,3
+"102","A0A3Q1M3A8","A0A3Q1M3A8","1","1","1","Ig-like domain-containing protein",1,1,1,1
+"103","A0A3Q1M3L6","A0A3Q1M3L6","16","1","1","Uncharacterized protein",1,16,1,1
+"104","P80209;A0A3Q1M3Z5;F1MMR6;F8W787;F8WD96;C9JH19;H7C469;A0A1B0GW44;A0A1B0GVP3;A0A1B0GV23;A0A1B0GVD5;A0A1B0GWE8;A0A1B0GU92;A0A1B0GU03;P07339","P80209;A0A3Q1M3Z5;F1MMR6","5;5;5;1;1;1;1;1;1;1;1;1;1;1;1","5;5;5;1;1;1;1;1;1;1;1;1;1;1;1","5;5;5;1;1;1;1;1;1;1;1;1;1;1;1","Cathepsin D;Cathepsin D;Cathepsin D",15,5,5,5
+"105","A0A3Q1M4K3;J3QS39;J3QTR3;F5H6Q2;P63048;F5GYU3;F5H2Z3;F5H265;B4DV12;F5H388;P62992;F5H747;F5GXK7;J3QKN0;Q5PY61;Q96C32;P0CG53;P0CH28;P62987;P62979;P0CG47;P0CG48;J3QSA3;F5GZ39;M0R1V7;Q49A90;M0R1M6;M0R2S1;A0A3Q1LU30;A0A2R8Y422;A0A3Q1MYD8","A0A3Q1M4K3;J3QS39;J3QTR3;F5H6Q2;P63048;F5GYU3;F5H2Z3;F5H265;B4DV12;F5H388;P62992;F5H747;F5GXK7;J3QKN0;Q5PY61;Q96C32;P0CG53;P0CH28;P62987;P62979;P0CG47;P0CG48;J3QSA3;F5GZ39;M0R1V7;Q49A90;M0R1M6;M0R2S1;A0A3Q1LU30;A0A2R8Y422;A0A3Q1MYD8","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1","2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1","Ubiquitin-like domain-containing protein;Polyubiquitin-B (Fragment);Ubiquitin-40S ribosomal protein S27a (Fragment);Polyubiquitin-C (Fragment);Ubiquitin-60S ribosomal protein L40;Polyubiquitin-C (Fragment);Polyubiquitin-C (Fragment);Polyubiquitin-C (Fragme",31,2,2,2
+"107","K7EMV3;K7EP01;A0A590UJJ6;B4DEB1;K7EK07;Q5TEC6;Q5E9F8;Q3SZB8;P84227;P68432;G3N2P2;G3MYD7;G3MWX6;E1BGN3;A5PK61;A0A3Q1MPB8;A0A3Q1M588;K7ES00;Q6NXT2;Q71DI3;Q16695;P84243;P68431","K7EMV3;K7EP01;A0A590UJJ6;B4DEB1;K7EK07;Q5TEC6;Q5E9F8;Q3SZB8;P84227;P68432;G3N2P2;G3MYD7;G3MWX6;E1BGN3;A5PK61;A0A3Q1MPB8;A0A3Q1M588;K7ES00;Q6NXT2;Q71DI3;Q16695;P84243;P68431","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","Histone H3;Histone H3.3;Histone H3;Histone H3;Histone H3 (Fragment);Histone H3;Histone H3.3;Histone H3.3C-like;Histone H3.2;Histone H3.1;Histone domain-containing protein;Histone H3;Histone H3;Histone H3;Histone H3.3C;Histone H3;Histone H3.3C;Histone H3.3 ",23,1,1,1
+"108","F1MPD1;A0A3Q1M5H7;Q9UBG0","F1MPD1;A0A3Q1M5H7;Q9UBG0","6;6;3","6;6;3","6;6;3","Mannose receptor C type 2;Mannose receptor C type 2;C-type mannose receptor 2",3,6,6,6
+"109","A0A3Q1M5K5;A6QL81;F6SYF8;Q9UBP4","A0A3Q1M5K5;A6QL81;F6SYF8;Q9UBP4","1;1;1;1","1;1;1;1","1;1;1;1","Dickkopf WNT signaling pathway inhibitor 3;DKK3 protein;Dickkopf-related protein 3;Dickkopf-related protein 3",4,1,1,1
+"110","A0A3Q1MCW2;A0A3Q1M5Q6;A0A3S5ZPB5;Q16610","A0A3Q1MCW2;A0A3Q1M5Q6;A0A3S5ZPB5","14;14;13;1","14;14;13;1","14;14;13;1","Extracellular matrix protein 1;Extracellular matrix protein 1;Extracellular matrix protein 1",4,14,14,14
+"111","Q5E9B1;A0A3Q1M5R4;A0A3Q1M4R3;A0A5F9ZHM4;P07195;A0A3B3IS95;A8MW50;C9J7H8;F5H793;F5H5G7;F5H155;A0A087WUM2;G3XAP5;F5H245;Q6ZMR3;P07864","Q5E9B1;A0A3Q1M5R4;A0A3Q1M4R3;A0A5F9ZHM4;P07195;A0A3B3IS95","16;16;11;11;11;9;6;4;3;1;1;1;1;1;1;1","16;16;11;11;11;9;6;4;3;1;1;1;1;1;1;1","14;14;9;10;10;8;5;4;3;0;0;0;0;0;0;0","L-lactate dehydrogenase B chain;L-lactate dehydrogenase;L-lactate dehydrogenase;L-lactate dehydrogenase;L-lactate dehydrogenase B chain;L-lactate dehydrogenase",16,16,16,14
+"112","A0A3Q1MUR2;A0A3Q1M667","A0A3Q1MUR2;A0A3Q1M667","3;3","2;2","2;2","Ig-like domain-containing protein;Ig-like domain-containing protein",2,3,2,2
+"113","F1MPH3;A0A3Q1M6P2;A0A3Q1NHH9;A0A3Q1NEA9;A0A3Q1LKN2;P01267","F1MPH3;A0A3Q1M6P2;A0A3Q1NHH9;A0A3Q1NEA9;A0A3Q1LKN2;P01267","36;36;35;34;34;34","36;36;35;34;34;34","36;36;35;34;34;34","Thyroglobulin;Thyroglobulin;Thyroglobulin;Thyroglobulin;Thyroglobulin;Thyroglobulin",6,36,36,36
+"114","F1N7F3;A0A3Q1M731;A0A3Q1MHB0;A0A1W2PRR9;Q504U8;E9PFD7;P00533","F1N7F3;A0A3Q1M731;A0A3Q1MHB0;A0A1W2PRR9;Q504U8;E9PFD7;P00533","2;2;2;1;1;1;1","2;2;2;1;1;1;1","2;2;2;1;1;1;1","Receptor protein-tyrosine kinase;Receptor protein-tyrosine kinase;Receptor protein-tyrosine kinase;Epidermal growth factor receptor;Receptor protein-tyrosine kinase;Receptor protein-tyrosine kinase;Epidermal growth factor receptor",7,2,2,2
+"115","A0A3Q1M7H6;Q28106;F1MVI0;A0A3Q1N4P7;A0A3Q1N3D8;Q12860","A0A3Q1M7H6;Q28106;F1MVI0;A0A3Q1N4P7;A0A3Q1N3D8;Q12860","15;15;15;13;9;8","15;15;15;13;9;8","15;15;15;13;9;8","Contactin-1;Contactin-1;Contactin-1;Contactin-1;Contactin-1;Contactin-1",6,15,15,15
+"116","Q0VCX1;F1MJ12;A0A3Q1M7Q5","Q0VCX1;F1MJ12;A0A3Q1M7Q5","11;11;11","11;11;11","11;11;11","Complement C1s subcomponent;Complement C1s subcomponent;Complement C1s subcomponent",3,11,11,11
+"117","P00744;G1K1X9;A0A3Q1M8B7","P00744;G1K1X9;A0A3Q1M8B7","3;3;3","3;3;3","3;3;3","Vitamin K-dependent protein Z;Vitamin K-dependent protein Z;Vitamin K-dependent protein Z",3,3,3,3
+"118","A0A3Q1M8I5;A0A3Q1NGH3;A0A3Q1MCP0;F1MI18;A0A3Q1M2P2;CON__ENSEMBL:ENSBTAP00000037665","A0A3Q1M8I5;A0A3Q1NGH3;A0A3Q1MCP0;F1MI18;A0A3Q1M2P2","79;78;72;71;69;32","2;2;2;2;2;0","0;0;0;0;0;0","Uncharacterized protein;Uncharacterized protein;Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",6,79,2,0
+"119","A0A3Q1N764;Q17QH6;A0A3Q1M944","A0A3Q1N764;Q17QH6;A0A3Q1M944","4;4;4","4;4;4","4;4;4","Collectin-11;Collectin-11;Collectin-11",3,4,4,4
+"120","A0A3Q1M977;A6QR11;F8W1A2;F8VVB6;Q99435;H0YIT4","A0A3Q1M977;A6QR11;F8W1A2;F8VVB6;Q99435","3;3;2;2;2;1","3;3;2;2;2;1","3;3;2;2;2;1","Protein kinase C-binding protein NELL2;Protein kinase C-binding protein NELL2;Protein kinase C-binding protein NELL2 (Fragment);Protein kinase C-binding protein NELL2;Protein kinase C-binding protein NELL2",6,3,3,3
+"122","A0A3Q1MGL5;A0A3Q1N0C4;A0A3Q1N1A8;A0A3Q1MA45","A0A3Q1MGL5;A0A3Q1N0C4;A0A3Q1N1A8;A0A3Q1MA45","1;1;1;1","1;1;1;1","1;1;1;1","Uncharacterized protein;Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",4,1,1,1
+"123","F1MN84;P79098;A0A3Q1MB09","F1MN84;P79098;A0A3Q1MB09","2;2;2","2;2;2","2;2;2","Aminopeptidase;Aminopeptidase N;Aminopeptidase",3,2,2,2
+"124","G3X6K8;A0A3Q1MB98;Q2TBU0;A0A0A0MRD9;A0A087WU08;A0A0C4DGL8;J3QLC9;J3QR68;H0Y300;P00739;P00738","G3X6K8;A0A3Q1MB98;Q2TBU0","7;7;7;1;1;1;1;1;1;1;1","7;7;7;1;1;1;1;1;1;1;1","7;7;7;1;1;1;1;1;1;1;1","Haptoglobin;Haptoglobin;Haptoglobin",11,7,7,7
+"125","Q32S29;Q2M2T1;Q2KII5;P62808;G8JL06;F2Z4F9;F2Z4E8;A0A452DJK3;A0A3Q1MEU7;A0A3Q1MBN5;U3KQK0;Q99880;Q99879;Q99877;Q93079;Q5QNW6;Q16778;P62807;P58876;P57053;P33778;P23527;P06899;O60814;Q32L48;G5E6I9;G3MWH4;E1B8G9;G3N080;A0A3Q1M4L6;Q8N257;Q96A08;A6QQ28;A0A3Q1MQN3;A0A3Q1M071;G3N0M9;G3N1R5;F1MUU9;G3MZR4;G3N3L9;G3N0F3;E1B7N8;G3N011;A0A3Q1MTT3;A0A3Q1M6X1;A0A3Q1LNX0;G5E6E8;F1N5F3;A0A2R8Y619;E1BAA6;G3MXG1;G3MYB1;G3MXG7;E1BM22;G3N0L9;E1BPK0;E1BDE9","Q32S29;Q2M2T1;Q2KII5;P62808;G8JL06;F2Z4F9;F2Z4E8;A0A452DJK3;A0A3Q1MEU7;A0A3Q1MBN5;U3KQK0;Q99880;Q99879;Q99877;Q93079;Q5QNW6;Q16778;P62807;P58876;P57053;P33778;P23527;P06899;O60814;Q32L48;G5E6I9;G3MWH4;E1B8G9;G3N080;A0A3Q1M4L6;Q8N257;Q96A08;A6QQ28;A0A3Q1MQN3;A0A3Q1M071;G3N0M9;G3N1R5;F1MUU9;G3MZR4;G3N3L9;G3N0F3;E1B7N8;G3N011","4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1","4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1","4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1","Histone H2B;Histone H2B type 1-K;Histone H2B;Histone H2B type 1;Histone H2B;Histone H2B;Histone H2B;Histone H2B;Histone H2B;Histone H2B;Histone H2B;Histone H2B type 1-L;Histone H2B type 1-M;Histone H2B type 1-N;Histone H2B type 1-H;Histone H2B type 2-F;His",57,4,4,4
+"126","A0A3Q1MBS5;Q3B7N2;A0A3Q1MPS4;P12814;H9KV75;G3V2W4;G3V2N5;G3V5M4;A0A494C033;H0YJ11;A0A494C166;H7C5W8;A0A494C1A0;Q3ZC55;A0A3Q1LWS8;P35609;G3V2E8;A0A494C0Q3;G3V2X9;H0YJW3;A0A3Q1M6W4;A0A3Q1M2X5;Q0III9;A0A087WSZ2;Q08043;A0A494C031;K7EJH8","A0A3Q1MBS5;Q3B7N2;A0A3Q1MPS4;P12814;H9KV75;G3V2W4;G3V2N5","8;8;8;8;7;4;4;3;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;1;1","8;8;8;8;7;4;4;3;3;3;3;3;3;3;3;3;2;2;2;2;2;2;2;2;2;1;1","3;3;3;3;3;1;1;1;1;2;1;2;1;1;1;1;1;1;1;1;1;0;0;0;0;1;0","Alpha-actinin-1;Alpha-actinin-1;Alpha-actinin-1;Alpha-actinin-1;Alpha-actinin-1;Alpha-actinin-1 (Fragment);Alpha-actinin-1 (Fragment)",27,8,8,3
+"127","A0A3Q1MBT3;A0A3Q1MIT3;A0A3Q1MKI2;A0A3Q1MT50;A0A3Q1LFV7;G5E5H2","A0A3Q1MBT3;A0A3Q1MIT3;A0A3Q1MKI2;A0A3Q1MT50;A0A3Q1LFV7;G5E5H2","4;4;4;4;3;3","1;1;1;1;0;0","1;1;1;1;0;0","Ig-like domain-containing protein;Ig-like domain-containing protein;Ig-like domain-containing protein;Ig-like domain-containing protein;Ig-like domain-containing protein;Ig-like domain-containing protein",6,4,1,1
+"128","A3KMV1;A0A3Q1MCT9","A3KMV1;A0A3Q1MCT9","1;1","1;1","1;1","SH3KBP1-binding protein 1;SH3KBP1-binding protein 1",2,1,1,1
+"130","A0A3Q1MEH0;Q56K11","A0A3Q1MEH0;Q56K11","2;2","2;2","2;2","Serglycin;Proteoglycan 1-like",2,2,2,2
+"131","F1MMJ2;A0A3Q1MEK3;P31836;A0A3Q1N1J8;F1N1W7;A0A3Q1M900;A0A3Q1MGY6;H7BYX6;A0A087WTE4;A0A087WTF6;A0A087WX77;A0A087WWD4;A0A087WV75;P13591;A0A0C4DGS4;A0A087X1V2;A0A087WVU1;A0A0D9SF98;A0A087WWJ5","F1MMJ2;A0A3Q1MEK3;P31836;A0A3Q1N1J8;F1N1W7;A0A3Q1M900;A0A3Q1MGY6;H7BYX6;A0A087WTE4;A0A087WTF6;A0A087WX77;A0A087WWD4;A0A087WV75;P13591","8;8;8;8;5;5;5;4;4;4;4;4;4;4;1;1;1;1;1","8;8;8;8;5;5;5;4;4;4;4;4;4;4;1;1;1;1;1","8;8;8;8;5;5;5;4;4;4;4;4;4;4;1;1;1;1;1","Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;Neural cell adhesion molecule 1;",19,8,8,8
+"134","A0A3Q1MFI7","A0A3Q1MFI7","4","2","2","Ig-like domain-containing protein",1,4,2,2
+"135","A0A3Q1ML30;F6RFD5;Q5E9D5;A0A3Q1MFL7;P60981","A0A3Q1ML30;F6RFD5;Q5E9D5;A0A3Q1MFL7;P60981","2;2;2;2;2","2;2;2;2;2","2;2;2;2;2","Destrin;Destrin;Destrin;Destrin;Destrin",5,2,2,2
+"137","A0A3Q1MG08;C9JMA2;F8W876;P48740","A0A3Q1MG08","8;1;1;1","8;1;1;1","3;0;0;0","Mannan binding lectin serine peptidase 1",4,8,8,3
+"139","A0A3Q1MG84;E1BEL6;O60462","A0A3Q1MG84;E1BEL6","8;8;3","8;8;3","8;8;3","Neuropilin;Neuropilin",3,8,8,8
+"140","A0A3Q1MSR4;A0A3Q1MGJ7","A0A3Q1MSR4;A0A3Q1MGJ7","2;2","2;2","2;2","PKHD1 like 1;PKHD1 like 1",2,2,2,2
+"141","O02853;A0A3Q1MGM5","O02853;A0A3Q1MGM5","2;2","2;2","2;2","Prostaglandin-H2 D-isomerase;Prostaglandin-H2 D-isomerase",2,2,2,2
+"142","A5D9E9;A0A3Q1MGP1","A5D9E9;A0A3Q1MGP1","5;5","5;5","5;5","Complement C1r;Complement C1r",2,5,5,5
+"143","A0A3Q1MU63;F1MKP6;A0A3Q1MHI4;Q3B7N0;P55290","A0A3Q1MU63;F1MKP6;A0A3Q1MHI4;Q3B7N0;P55290","3;3;3;3;3","3;3;3;3;3","3;3;3;3;3","Cadherin-13;Cadherin-13;Cadherin-13;Cadherin-13;Cadherin-13",5,3,3,3
+"144","P26779;F1MXP8;A0A3Q1MI01;A0A140T8C6","P26779;F1MXP8;A0A3Q1MI01;A0A140T8C6","7;7;7;6","7;7;7;6","7;7;7;6","Prosaposin;Prosaposin;Prosaposin;Prosaposin",4,7,7,7
+"145","A0A3Q1MI29","A0A3Q1MI29","4","3","3","Ig-like domain-containing protein",1,4,3,3
+"146","A0A3Q1MIU1;A2VE41;A0A3Q1N0S5;C9JQX7;C9J4J8;C9JPZ9;C9JUM4","A0A3Q1MIU1;A2VE41;A0A3Q1N0S5","14;14;13;2;2;2;1","14;14;13;2;2;2;1","5;5;5;0;0;0;0","EGF containing fibulin extracellular matrix protein 1;EGF containing fibulin extracellular matrix protein 1;EGF containing fibulin extracellular matrix protein 1",7,14,14,5
+"149","A0A3Q1MK50","A0A3Q1MK50","1","1","1","Ig-like domain-containing protein",1,1,1,1
+"150","A0A3Q1ML26","A0A3Q1ML26","4","3","2","Ig-like domain-containing protein",1,4,3,2
+"151","A0A3Q1ML74;G3N019","A0A3Q1ML74;G3N019","2;2","2;2","2;2","Transmembrane protein 132C;Transmembrane protein 132C",2,2,2,2
+"152","A0A3Q1MLQ7;F1MDH3;A0A3Q1N5M2;A0A3Q1M5E5;A0A3Q1MU54;F1MQI1;Q9Y4G6;H0YMT1;A0A1B0GVU7","A0A3Q1MLQ7;F1MDH3","31;30;2;2;2;2;2;1;1","31;30;2;2;2;2;2;1;1","6;5;0;0;0;0;0;0;0","Talin 1;Talin 1",9,31,31,6
+"153","Q9TTJ5;A0A3Q1MLX2;Q15493","Q9TTJ5;A0A3Q1MLX2","12;12;3","12;12;3","12;12;3","Regucalcin;Regucalcin",3,12,12,12
+"154","P14568;A0A3Q1MM52","P14568;A0A3Q1MM52","1;1","1;1","1;1","Argininosuccinate synthase;Argininosuccinate synthase",2,1,1,1
+"155","E9PRU1;Q0IIG2;A0A3Q1MN12;O95967;H0YET5","E9PRU1;Q0IIG2;A0A3Q1MN12;O95967;H0YET5","2;2;2;2;1","2;2;2;2;1","2;2;2;2;1","EGF-containing fibulin-like extracellular matrix protein 2;EGF containing fibulin extracellular matrix protein 2;EGF containing fibulin extracellular matrix protein 2;EGF-containing fibulin-like extracellular matrix protein 2;EGF-containing fibulin-like ex",5,2,2,2
+"156","A0A3Q1MNN6","A0A3Q1MNN6","76","3","3","Uncharacterized protein",1,76,3,3
+"158","A0A452DI24;P50397;A0A3Q1MPF1;P50395;Q5SX87;Q5SX91;P21856;P31150;V9GYF8;Q5SX90;Q5SX86;V9GYJ7;G5E9U5;A0A3Q1MNB1","A0A452DI24;P50397;A0A3Q1MPF1;P50395;Q5SX87;Q5SX91;P21856;P31150","7;7;7;6;5;4;4;4;2;2;2;1;1;1","7;7;7;6;5;4;4;4;2;2;2;1;1;1","7;7;7;6;5;4;4;4;2;2;2;1;1;1","Rab GDP dissociation inhibitor;Rab GDP dissociation inhibitor beta;Rab GDP dissociation inhibitor;Rab GDP dissociation inhibitor beta;Rab GDP dissociation inhibitor (Fragment);Rab GDP dissociation inhibitor (Fragment);Rab GDP dissociation inhibitor alpha;R",14,7,7,7
+"159","A0A3Q1MQ59;Q08DL0","A0A3Q1MQ59;Q08DL0","1;1","1;1","1;1","Solute carrier family 3 member 2;SLC3A2 protein",2,1,1,1
+"160","A0A3Q1MQ74;G3X755;A0A3Q1MUJ8;A0A3Q1LQI3","A0A3Q1MQ74;G3X755;A0A3Q1MUJ8;A0A3Q1LQI3","7;7;5;4","7;7;5;4","7;7;5;4","Plexin B2;Plexin B2;Plexin B2;Plexin B2",4,7,7,7
+"161","E1BGN5;A0A3Q1MQC5","E1BGN5;A0A3Q1MQC5","2;2","2;2","2;2","VWFA domain-containing protein;VWFA domain-containing protein",2,2,2,2
+"163","A0A3Q1MR54;A0A3Q1NH68","A0A3Q1MR54;A0A3Q1NH68","4;4","2;2","0;0","Lipocln_cytosolic_FA-bd_dom domain-containing protein;Uncharacterized protein",2,4,2,0
+"164","A0A3Q1MR79;G3N2D7;A0A3Q1MN72","A0A3Q1MR79;G3N2D7;A0A3Q1MN72","5;4;4","5;4;4","5;4;4","Ig-like domain-containing protein;Ig-like domain-containing protein;Ig-like domain-containing protein",3,5,5,5
+"165","A0A3Q1MRQ2;A0A3Q1MSP1","A0A3Q1MRQ2","6;1","6;1","0;0","Lipocln_cytosolic_FA-bd_dom domain-containing protein",2,6,6,0
+"166","A0A3Q1MSF6;A0A3Q1MNY1","A0A3Q1MSF6;A0A3Q1MNY1","4;3","1;1","1;1","Ig-like domain-containing protein;Ig-like domain-containing protein",2,4,1,1
+"167","Q6R8F2;F1N619;A0A3Q1MSS6","Q6R8F2;F1N619;A0A3Q1MSS6","4;4;4","4;4;4","4;4;4","Cadherin-1;Cadherin-1;Cadherin-1",3,4,4,4
+"168","P18902;G1K122;A0A3Q1MSW9;Q5VY30;P02753","P18902;G1K122;A0A3Q1MSW9","10;10;10;4;4","10;10;10;4;4","10;10;10;4;4","Retinol-binding protein 4;Retinol-binding protein;Retinol-binding protein 4",5,10,10,10
+"169","Q3SZJ7;A0A3Q1MTN6;G3MXJ5;A0A3Q1N8P4;H0YCG2;A0A3Q1LZC9;P13473","Q3SZJ7;A0A3Q1MTN6;G3MXJ5;A0A3Q1N8P4","4;4;4;4;1;1;1","4;4;4;4;1;1;1","4;4;4;4;1;1;1","Lysosomal-associated membrane protein 2;Lysosomal associated membrane protein 2;Lysosomal associated membrane protein 2;Lysosomal associated membrane protein 2",7,4,4,4
+"170","Q58D84;A0A3Q1MTZ0;Q12841;C9J5G4","Q58D84;A0A3Q1MTZ0;Q12841;C9J5G4","4;4;4;2","4;4;4;2","4;4;4;2","Follistatin-related protein 1;Follistatin-related protein 1;Follistatin-related protein 1;Follistatin-related protein 1 (Fragment)",4,4,4,4
+"171","A0A3Q1MU33;F6QVC9;P08758;E9PHT9;D6RBE9;D6RBL5;P81287","A0A3Q1MU33;F6QVC9;P08758;E9PHT9;D6RBE9;D6RBL5;P81287","2;2;2;1;1;1;1","2;2;2;1;1;1;1","2;2;2;1;1;1;1","Annexin;Annexin;Annexin A5;Annexin;Annexin;Annexin;Annexin A5",7,2,2,2
+"172","P01888;A0A3Q1MU93","P01888;A0A3Q1MU93","7;7","7;7","7;7","Beta-2-microglobulin;Beta-2-microglobulin",2,7,7,7
+"173","A0A3Q1MUM9;Q17QI3;A0A3Q1MLP4;Q9BWD1","A0A3Q1MUM9;Q17QI3","4;4;1;1","4;4;1;1","4;4;1;1","Acetyl-CoA acetyltransferase 2;Acetyl-CoA acetyltransferase 2",4,4,4,4
+"174","F1MJM4;A6QQ07;A0A3Q1MUX4","F1MJM4;A6QQ07;A0A3Q1MUX4","2;2;2","2;2;2","2;2;2","Biotinidase;Biotinidase;Biotinidase",3,2,2,2
+"175","A0A3Q1MWC7;F1N3V0","A0A3Q1MWC7;F1N3V0","3;3","3;3","3;3","Malic enzyme;Malic enzyme",2,3,3,3
+"176","A0A3Q1MWF5","A0A3Q1MWF5","1","1","1","Ig-like domain-containing protein",1,1,1,1
+"177","F1MNT4;A0A3Q1MY30","F1MNT4;A0A3Q1MY30","29;29","29;29","13;13","Laminin subunit beta 1;Laminin subunit beta 1",2,29,29,13
+"178","A0A3Q1N0Y8;A0A3Q1NIN4;F1MD95;A0A3B3ITY6","A0A3Q1N0Y8;A0A3Q1NIN4;F1MD95;A0A3B3ITY6","2;2;2;1","2;2;2;1","1;1;1;0","Calsyntenin 1;Calsyntenin 1;Calsyntenin 1;Calsyntenin-1 (Fragment)",4,2,2,1
+"179","A0A3Q1N2B9","A0A3Q1N2B9","4","1","1","Ig-like domain-containing protein",1,4,1,1
+"180","F1N759;A0A3Q1N3Z8","F1N759;A0A3Q1N3Z8","2;2","2;2","2;2","Platelet-derived growth factor receptor beta;Platelet-derived growth factor receptor beta",2,2,2,2
+"181","P13213;A0A3Q1N541;P09486;F5GY03;E5RK62;F5H4E2","P13213;A0A3Q1N541;P09486;F5GY03","13;13;13;7;5;1","13;13;13;7;5;1","13;13;13;7;5;1","SPARC;SPARC;SPARC;SPARC (Fragment)",6,13,13,13
+"182","A0A3Q1N607;F1MSM3;P46531","A0A3Q1N607;F1MSM3;P46531","2;2;1","2;2;1","2;2;1","Notch receptor 1;Notch receptor 1;Neurogenic locus notch homolog protein 1",3,2,2,2
+"183","A0A3Q1N7G4;B8YB76;A0A3Q1LS65;Q93099;H7C576;H7C4R8;C9JTX9","A0A3Q1N7G4;B8YB76;A0A3Q1LS65;Q93099","9;9;7;5;2;1;1","9;9;7;5;2;1;1","9;9;7;5;2;1;1","Homogentisate 1,2-dioxygenase;Homogentisate 1,2-dioxygenase;Homogentisate 1,2-dioxygenase;Homogentisate 1,2-dioxygenase",7,9,9,9
+"184","F1MM32;A0A3Q1N9Y5","F1MM32;A0A3Q1N9Y5","12;12","12;12","10;10","Sulfhydryl oxidase;Sulfhydryl oxidase",2,12,12,10
+"185","H7C543;F5GXJ9;A0A3Q1NA28;Q9BH13;F1MHN8;Q13740","H7C543;F5GXJ9;A0A3Q1NA28;Q9BH13;F1MHN8;Q13740","3;3;3;3;3;3","3;3;3;3;3;3","3;3;3;3;3;3","CD166 antigen (Fragment);CD166 antigen;CD166 antigen;CD166 antigen;CD166 antigen;CD166 antigen",6,3,3,3
+"186","A0A3Q1NEQ0;E1BI82;A0A3Q1MUV9","A0A3Q1NEQ0;E1BI82;A0A3Q1MUV9","51;45;43","48;42;40","7;1;1","Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",3,51,48,7
+"187","A0A3Q1NFD1;F1N7F9;P54289;E7ERK3;H0Y715","A0A3Q1NFD1;F1N7F9;P54289","13;12;10;3;2","13;12;10;3;2","13;12;10;3;2","Calcium voltage-gated channel auxiliary subunit alpha2delta 1;Calcium voltage-gated channel auxiliary subunit alpha2delta 1;Voltage-dependent calcium channel subunit alpha-2/delta-1",5,13,13,13
+"189","A0A494C194;F6Q234;A0A3Q1NGC5;K7ES25;A0A494C165;P12955","A0A494C194;F6Q234;A0A3Q1NGC5;K7ES25;A0A494C165;P12955","1;1;1;1;1;1","1;1;1;1;1;1","1;1;1;1;1;1","Xaa-Pro dipeptidase (Fragment);Peptidase D;Peptidase D;Xaa-Pro dipeptidase (Fragment);Xaa-Pro dipeptidase (Fragment);Xaa-Pro dipeptidase",6,1,1,1
+"190","A0A3Q1NJB1;F1N076;A0A3Q1LQ81;A0A3Q1MI22","A0A3Q1NJB1;F1N076;A0A3Q1LQ81;A0A3Q1MI22","39;39;37;37","3;3;2;2","3;3;2;2","Ceruloplasmin;Ceruloplasmin;Ceruloplasmin;Ceruloplasmin",4,39,3,3
+"192","E9PB77;E7EMF1;E7ESP4;A0A3Q1NKA4;P53710;F1MBA3;P17301","E9PB77;E7EMF1;E7ESP4;A0A3Q1NKA4;P53710;F1MBA3;P17301","1;1;1;1;1;1;1","1;1;1;1;1;1;1","1;1;1;1;1;1;1","Integrin alpha-2;Integrin alpha-2;Integrin alpha-2;Integrin alpha-2;Integrin alpha-2 (Fragment);Integrin alpha-2;Integrin alpha-2",7,1,1,1
+"193","A0A3Q1NM57;F1MRL0;P53355","A0A3Q1NM57;F1MRL0;P53355","1;1;1","1;1;1","1;1;1","Death associated protein kinase 1;Death associated protein kinase 1;Death-associated protein kinase 1",3,1,1,1
+"194","A0A3Q1NMV4;E1BCU8;A0A087X1L8;K4DIA0;O75144","A0A3Q1NMV4;E1BCU8","3;3;1;1;1","3;3;1;1;1","3;3;1;1;1","Ig-like domain-containing protein;Ig-like domain-containing protein",5,3,3,3
+"195","Q3SYW2;A0A3S5ZPC6;B4DQI1;A0A0G2JIE7;H0Y3H6;A0A0G2JL69;P06681;E9PDZ0","Q3SYW2;A0A3S5ZPC6","5;5;2;2;2;2;2;1","5;5;2;2;2;2;2;1","4;4;1;1;1;1;1;0","Complement C2;Complement C2",8,5,5,4
+"196","A0A3S5ZPM3;K7ELN9;P52209","A0A3S5ZPM3;K7ELN9;P52209","2;1;1","2;1;1","2;1;1","6-phosphogluconate dehydrogenase, decarboxylating;6-phosphogluconate dehydrogenase, decarboxylating (Fragment);6-phosphogluconate dehydrogenase, decarboxylating",3,2,2,2
+"197","Q5I597;A0A452DHV7;A0A3Q1NDS5;Q93088;E5RJH0","Q5I597;A0A452DHV7;A0A3Q1NDS5;Q93088","5;5;3;3;1","5;5;3;3;1","5;5;3;3;1","Betaine--homocysteine S-methyltransferase 1;Betaine--homocysteine S-methyltransferase 1;Betaine--homocysteine S-methyltransferase 1;Betaine--homocysteine S-methyltransferase 1",5,5,5,5
+"198","A0A452DHX8;K7EQZ5;K7EL47;E1BC09;O75106","A0A452DHX8","13;1;1;1;1","9;1;1;0;0","6;0;0;0;0","Amine oxidase",5,13,9,6
+"200","A0A452DHZ5;Q0P569;H7BZI1;Q02818","A0A452DHZ5;Q0P569;H7BZI1;Q02818","2;2;1;1","2;2;1;1","2;2;1;1","Nucleobindin-1;Nucleobindin-1;Nucleobindin-1 (Fragment);Nucleobindin-1",4,2,2,2
+"201","P20414;A0A452DI16","P20414;A0A452DI16","2;2","1;1","1;1","Metalloproteinase inhibitor 1;A-Raf proto-oncogene, serine/threonine kinase",2,2,1,1
+"203","Q5E9H0;A0A452DIA9","Q5E9H0;A0A452DIA9","1;1","1;1","1;1","Phospholipase A1 member A;[Protein ADP-ribosylarginine] hydrolase",2,1,1,1
+"204","F8W1R7;A0A452DID9;P60661;J3KND3;G8JLA2;G3V1V0;B7Z6Z4;P60660;F8VPF3;A0A3Q1MDB1;F8W1I5;P14649;G3V1Y7","F8W1R7;A0A452DID9;P60661;J3KND3;G8JLA2;G3V1V0;B7Z6Z4;P60660;F8VPF3;A0A3Q1MDB1;F8W1I5;P14649","3;3;3;3;3;3;3;3;2;2;2;2;1","3;3;3;3;3;3;3;3;2;2;2;2;1","3;3;3;3;3;3;3;3;2;2;2;2;1","Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6;Myosin light polypeptide 6 (Fragment);My",13,3,3,3
+"205","Q0VCP3;A0A452DIF8;B4DNG0;Q9NRN5","Q0VCP3;A0A452DIF8;B4DNG0;Q9NRN5","2;2;1;1","2;2;1;1","2;2;1;1","Olfactomedin-like protein 3;Olfactomedin-like protein 3;Olfactomedin-like protein 3;Olfactomedin-like protein 3",4,2,2,2
+"206","Q0VCA8;A0A452DIN3","Q0VCA8;A0A452DIN3","1;1","1;1","1;1","3-hydroxyanthranilate 3,4-dioxygenase;3-hydroxyanthranilate 3,4-dioxygenase",2,1,1,1
+"207","P00743;A0A452DIP8;P00742","P00743;A0A452DIP8","9;9;4","9;9;4","9;9;4","Coagulation factor X;Coagulation factor X",3,9,9,9
+"208","A0A452DIW4;Q3T145;B9A041;A0A5K1VW95;P40925;C9JRL4;B8ZZ51;C9JF79","A0A452DIW4;Q3T145;B9A041;A0A5K1VW95;P40925","3;3;2;2;2;1;1;1","3;3;2;2;2;1;1;1","3;3;2;2;2;1;1;1","Malate dehydrogenase;Malate dehydrogenase, cytoplasmic;Malate dehydrogenase, cytoplasmic;Malate dehydrogenase;Malate dehydrogenase, cytoplasmic",8,3,3,3
+"209","Q5E956;A0A452DIX3;U3KQF3;U3KPZ0","Q5E956;A0A452DIX3","7;7;1;1","7;7;1;1","2;2;0;0","Triosephosphate isomerase;Triosephosphate isomerase",4,7,7,2
+"210","A0A452DJ62;Q3SWW8;E7ES19;P35443","A0A452DJ62;Q3SWW8","25;23;8;8","25;23;8;8","21;19;4;4","Thrombospondin-4;Thrombospondin-4",4,25,25,21
+"211","A0A452DJ66;Q2HJ86;F2Z4C1;Q71U36;Q32KN8;P0DPH8;P0DPH7;F2Z4K0;F6RP72;A0A3Q1LUJ2;Q6PEY2;A0A1W2PQM2;Q3ZCJ7;F1MNF8;F8VQQ4;A0A3Q1LQR2;F8VX09;F8VWV9;F8VRZ4;F8VS66;F8VRK0;V9GZ17;F8VXZ7;F8W0F6","A0A452DJ66;Q2HJ86;F2Z4C1;Q71U36;Q32KN8;P0DPH8;P0DPH7;F2Z4K0;F6RP72;A0A3Q1LUJ2;Q6PEY2;A0A1W2PQM2;Q3ZCJ7;F1MNF8","13;13;12;12;10;10;10;10;10;9;9;8;8;8;6;6;4;4;4;4;2;2;1;1","13;13;12;12;10;10;10;10;10;9;9;8;8;8;6;6;4;4;4;4;2;2;1;1","2;2;1;1;1;1;1;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0","Tubulin alpha chain;Tubulin alpha-1D chain;Tubulin alpha chain;Tubulin alpha-1A chain;Tubulin alpha-3 chain;Tubulin alpha-3D chain;Tubulin alpha-3C chain;Tubulin alpha chain;Tubulin alpha chain;Tubulin alpha chain;Tubulin alpha-3E chain;Tubulin alpha-1C ch",24,13,13,2
+"212","G3MW01;P19803;A0A452DJ82","G3MW01;P19803;A0A452DJ82","1;1;1","1;1;1","1;1;1","Rho GDP-dissociation inhibitor 1;Rho GDP-dissociation inhibitor 1;Rho GDP-dissociation inhibitor 1",3,1,1,1
+"213","A0A452DJE0;Q58DD0","A0A452DJE0;Q58DD0","2;2","2;2","2;2","Angiotensin-converting enzyme;Angiotensin-converting enzyme 2",2,2,2,2
+"215","Q3ZCH5;A0A452DK44","Q3ZCH5;A0A452DK44","12;12","12;12","12;12","Zinc-alpha-2-glycoprotein;Zinc-alpha-2-glycoprotein",2,12,12,12
+"216","P07456;A0A452DK94;A0A3Q1LM00;A0A3Q1M9B4;P01344","P07456;A0A452DK94;A0A3Q1LM00;A0A3Q1M9B4;P01344","4;4;3;3;2","4;4;3;3;2","4;4;3;3;2","Insulin-like growth factor II;Insulin-like growth factor II;Insulin-like growth factor II;Insulin-like growth factor II;Insulin-like growth factor II",5,4,4,4
+"217","Q5FC05;D6RH03;A0A494BZU0;E1BD36;P40189","Q5FC05;D6RH03;A0A494BZU0;E1BD36;P40189","1;1;1;1;1","1;1;1;1;1","1;1;1;1;1","IL6ST nirs variant 3;Interleukin-6 receptor subunit beta;Interleukin-6 receptor subunit beta;Interleukin 6 signal transducer;Interleukin-6 receptor subunit beta",5,1,1,1
+"218","A2I7M9","A2I7M9","24","1","0","Serpin A3-2",1,24,1,0
+"221","A2VDQ6;P55287;H3BQH2;H3BUU9","A2VDQ6;P55287;H3BQH2;H3BUU9","2;2;1;1","2;2;1;1","2;2;1;1","Cadherin 11;Cadherin-11;Cadherin-11 (Fragment);Cadherin-11",4,2,2,2
+"222","A4IFA5;Q6EMK4","A4IFA5","12;2","12;2","12;2","VASN protein",2,12,12,12
+"223","A4IFA6","A4IFA6","4","3","3","Immunoglobulin superfamily containing leucine-rich repeat protein",1,4,3,3
+"224","A5D7B7;A0A3Q1LPV3;B4DLR2;A0A0D9SEN1;Q12884;A0A3Q1LFY6;C9J131","A5D7B7;A0A3Q1LPV3","5;4;2;2;2;1;1","5;4;2;2;2;1;1","5;4;2;2;2;1;1","Prolyl endopeptidase FAP;Prolyl endopeptidase FAP",7,5,5,5
+"225","A5D7D1;O43707;A0A3Q1MRU0;A0A3Q1MFS2;A0A3Q1MAJ8;A0A3Q1MR52;A0A452DIE5;H7C144;F5GXS2;M0QZQ3;C9JY79;E1BLT3;Q9H254","A5D7D1;O43707;A0A3Q1MRU0;A0A3Q1MFS2;A0A3Q1MAJ8;A0A3Q1MR52;A0A452DIE5","8;8;7;7;7;5;5;2;2;1;1;1;1","3;3;3;3;3;2;2;1;1;1;1;1;1","3;3;3;3;3;2;2;1;1;1;1;1;1","Alpha-actinin-4;Alpha-actinin-4;Alpha-actinin-4;Alpha-actinin-4;Alpha-actinin-4;Alpha-actinin-4;Alpha-actinin-4",13,8,3,3
+"226","A5D7F4","A5D7F4","2","2","2","PCDHGC3 protein",1,2,2,2
+"227","A5D7L1;Q9Y240","A5D7L1;Q9Y240","7;5","7;5","7;5","C-type lectin domain containing 11A;C-type lectin domain family 11 member A",2,7,7,7
+"229","P33072;A5D7S7","P33072;A5D7S7","3;3","3;3","3;3","Protein-lysine 6-oxidase;LOX protein",2,3,3,3
+"230","A5D984;H3BU13;Q1JPG7;P30613","A5D984","14;1;1;1","14;1;1;1","6;0;0;0","Pyruvate kinase",4,14,14,6
+"231","P19879;A5D9E8;Q5TBF5","P19879;A5D9E8","7;7;2","7;7;2","5;5;0","Mimecan;Mimecan",3,7,7,5
+"233","A5PJB8","A5PJB8","7","7","7","CTRB1 protein",1,7,7,7
+"234","A5PK77","A5PK77","6","6","6","SERPINA11 protein",1,6,6,6
+"236","A5PKI3;C9JP35;C9JMN4;Q92520","A5PKI3;C9JP35;C9JMN4;Q92520","2;1;1;1","2;1;1;1","2;1;1;1","Protein FAM3C;Protein FAM3C (Fragment);Protein FAM3C (Fragment);Protein FAM3C",4,2,2,2
+"237","F5H823;B7ZB78;F5GZG1;P62833;P61223;P62834;P61224;A6NIZ1","F5H823;B7ZB78;F5GZG1;P62833;P61223;P62834;P61224;A6NIZ1","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","Ras-related protein Rap-1b (Fragment);Ras-related protein Rap-1b;Ras-related protein Rap-1b (Fragment);Ras-related protein Rap-1A;Ras-related protein Rap-1b;Ras-related protein Rap-1A;Ras-related protein Rap-1b;Ras-related protein Rap-1b-like protein",8,1,1,1
+"238","A6QLB7;Q3SYV4;A0A3Q1LJQ7;Q01518;Q5T0R7;Q5T0R6;Q5T0R5;Q5T0R4;Q5T0R3;Q5T0R2;Q5T0R1;Q5T0R9","A6QLB7;Q3SYV4;A0A3Q1LJQ7","9;9;7;4;2;2;2;2;2;2;2;2","9;9;7;4;2;2;2;2;2;2;2;2","9;9;7;4;2;2;2;2;2;2;2;2","Adenylyl cyclase-associated protein;Adenylyl cyclase-associated protein 1;Adenylyl cyclase-associated protein",12,9,9,9
+"239","Q95122;A6QNL0","Q95122;A6QNL0","10;10","10;10","10;10","Monocyte differentiation antigen CD14;Monocyte differentiation antigen CD14",2,10,10,10
+"240","A6QNS6;H0YJV3;A0A087WZP6;Q14112","A6QNS6","13;1;1;1","13;1;1;1","7;0;0;0","NID1 protein",4,13,13,7
+"241","A6QNW7","A6QNW7","13","13","3","CD5 molecule like",1,13,13,3
+"242","A6QP30","A6QP30","14","14","14","CPN2 protein",1,14,14,14
+"243","A6QPQ2;A0A0A0MP89","A6QPQ2;A0A0A0MP89","19;18","14;14","14;14","Serpin A3-8;Serpin A3-8",2,19,14,14
+"245","A7E3W2","A7E3W2","16","16","16","Galectin-3-binding protein",1,16,16,16
+"246","A7MB82;E9PGA6;Q9BXJ4","A7MB82;E9PGA6;Q9BXJ4","4;4;4","4;4;4","4;4;4","Adiponectin M;C1QTNF3-AMACR readthrough (NMD candidate);Complement C1q tumor necrosis factor-related protein 3",3,4,4,4
+"247","A7MBB0;F6RXU6","A7MBB0;F6RXU6","8;6","2;2","2;2","VCAM1 protein;Uncharacterized protein",2,8,2,2
+"248","A7YWG4;Q92820","A7YWG4","8;1","8;1","8;1","Gamma-glutamyl hydrolase",2,8,8,8
+"249","Q6B855;A7Z014;F8W888","Q6B855;A7Z014","3;3;1","3;3;1","1;1;0","Transketolase;TKT protein",3,3,3,1
+"250","P68252;A7Z057;P61981","P68252;A7Z057;P61981","5;5;5","3;3;3","3;3;3","14-3-3 protein gamma;14-3-3 protein gamma;14-3-3 protein gamma",3,5,3,3
+"251","A7Z067","A7Z067","7","7","7","CSF1R protein",1,7,7,7
+"252","A8E654;F1N6W9","A8E654;F1N6W9","2;2","2;2","2;2","COL18A1 protein;Collagen type XVIII alpha 1 chain",2,2,2,2
+"253","B0YJC4;P08670;P48616;B0YJC5;A0A1B0GTT5;H7C5W5;A6QQJ3;P41219","B0YJC4;P08670;P48616;B0YJC5","14;14;11;9;3;1;1;1","14;14;11;9;3;1;1;1","14;14;11;9;3;1;1;1","Vimentin;Vimentin;Vimentin;Vimentin",8,14,14,14
+"254","B1AHL2","B1AHL2","10","1","1","Fibulin-1",1,10,1,1
+"255","B4DEV8;F5GX11;Q3T0X5;P25786","B4DEV8;F5GX11;Q3T0X5;P25786","2;2;2;2","2;2;2;2","2;2;2;2","Proteasome subunit alpha type;Proteasome endopeptidase complex;Proteasome subunit alpha type-1;Proteasome subunit alpha type-1",4,2,2,2
+"256","F5H018;Q3T054;B5MDF5;J3KQE5;P62826;A0A3Q1M6P9;H0YFC6;B4DV51;G3MZP2;G5E619","F5H018;Q3T054;B5MDF5;J3KQE5;P62826;A0A3Q1M6P9;H0YFC6;B4DV51;G3MZP2;G5E619","2;2;2;2;2;1;1;1;1;1","2;2;2;2;2;1;1;1;1;1","2;2;2;2;2;1;1;1;1;1","GTP-binding nuclear protein Ran (Fragment);GTP-binding nuclear protein Ran;GTP-binding nuclear protein Ran;GTP-binding nuclear protein Ran (Fragment);GTP-binding nuclear protein Ran;Uncharacterized protein;GTP-binding nuclear protein Ran (Fragment);GTP-bin",10,2,2,2
+"257","C4T8B4","C4T8B4","4","4","4","Pentaxin",1,4,4,4
+"259","C9J4T6;P10145","C9J4T6;P10145","2;2","2;2","2;2","Multifunctional fusion protein;Interleukin-8",2,2,2,2
+"260","F8WCJ1;C9J7B5;C9J4W5;I3L397;F1MN49;Q6EWQ7;I3L504;Q9GZV4;Q6IS14;P63241","F8WCJ1;C9J7B5;C9J4W5;I3L397;F1MN49;Q6EWQ7;I3L504;Q9GZV4;Q6IS14;P63241","1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1","Eukaryotic translation initiation factor 5A;Eukaryotic translation initiation factor 5A;Eukaryotic translation initiation factor 5A (Fragment);Eukaryotic translation initiation factor 5A (Fragment);Eukaryotic translation initiation factor 5A;Eukaryotic tra",10,1,1,1
+"331","D6RE00;Q29RM2;Q9NYF3","D6RE00;Q29RM2;Q9NYF3","1;1;1","1;1;1","1;1;1","Protein FAM53C;Protein FAM53C;Protein FAM53C",3,1,1,1
+"332","D6RGG3;F1N401;Q99715","D6RGG3;F1N401;Q99715","5;5;5","5;5;5","5;5;5","Collagen alpha-1(XII) chain;Collagen alpha-1(XII) chain;Collagen alpha-1(XII) chain",3,5,5,5
+"333","E1B726;A7E350","E1B726;A7E350","70;58","70;58","8;8","Plasminogen;PLG protein",2,70,70,8
+"334","E1B805;A0A3Q1M3A4;Q6ZMU1","E1B805;A0A3Q1M3A4","54;50;1","54;50;1","54;50;1","Uncharacterized protein;Uncharacterized protein",3,54,54,54
+"336","Q28201;F1N5N8;E1B9A5","Q28201;F1N5N8;E1B9A5","1;1;1","1;1;1","1;1;1","Trophoblast Kunitz domain protein 1;Trophoblast Kunitz domain protein 1;Trophoblast Kunitz domain protein 1",3,1,1,1
+"337","E1B9H0;H7BWW2;E1B9E8","E1B9H0;H7BWW2;E1B9E8","3;3;3","3;3;3","3;3;3","Beta-hexosaminidase;Beta-hexosaminidase;Beta-hexosaminidase",3,3,3,3
+"338","E1BB32","E1BB32","4","4","4","Glycoprotein Ib platelet subunit alpha",1,4,4,4
+"339","E1BB91","E1BB91","55","55","49","Collagen type VI alpha 3 chain",1,55,55,49
+"341","Q24K22;E1BDW7;A0A3Q1LSX3;G3XAK1;P26927;H7C0F8;Q2TV78","Q24K22;E1BDW7;A0A3Q1LSX3","14;14;13;3;3;2;1","14;14;13;3;3;2;1","14;14;13;3;3;2;1","Hepatocyte growth factor-like protein;Hepatocyte growth factor-like protein;Hepatocyte growth factor-like protein",7,14,14,14
+"342","E1BE11","E1BE11","1","1","1","Hemicentin 1",1,1,1,1
+"343","E1BFN6;Q14117;E5RG28;H0YBT4;E9PD68;A0A3Q1LXY5;E1BER6;A7MBI5;Q14195;Q14194","E1BFN6","7;3;1;1;1;1;1;1;1;1","7;3;1;1;1;1;1;1;1;1","7;3;1;1;1;1;1;1;1;1","Dihydropyrimidinase",10,7,7,7
+"344","E1BGJ0;Q07954;H0YJI8;Q6PJ72","E1BGJ0;Q07954","19;16;3;2","19;16;3;2","19;16;3;2","LDL receptor related protein 1;Prolow-density lipoprotein receptor-related protein 1",4,19,19,19
+"345","E1BGJ5","E1BGJ5","5","5","5","CD93 molecule",1,5,5,5
+"346","E1BI56","E1BI56","1","1","1","Triggering receptor expressed on myeloid cells like 1",1,1,1,1
+"347","E1BI98","E1BI98","29","29","18","Collagen type VI alpha 1 chain",1,29,29,18
+"348","E1BIG6","E1BIG6","4","4","4","Transferrin receptor",1,4,4,4
+"349","E1BJ49;I2E4T6","E1BJ49","10;4","10;4","10;4","Mannan binding lectin serine peptidase 2",2,10,10,10
+"350","E1BJN3;Q29437","E1BJN3;Q29437","15;15","15;15","7;7","Amine oxidase;Primary amine oxidase, liver isozyme",2,15,15,7
+"352","E1BKL4;K7EPJ4;Q8IUL8","E1BKL4;K7EPJ4;Q8IUL8","10;5;5","10;5;5","10;5;5","Cartilage intermediate layer protein 2;Cartilage intermediate layer protein 2;Cartilage intermediate layer protein 2",3,10,10,10
+"353","E1BLA8;C9J941;F8WAT9;C9JYM4;Q8NBJ4","E1BLA8","5;1;1;1;1","5;1;1;1;1","5;1;1;1;1","Golgi membrane protein 1",5,5,5,5
+"354","E1BLL9","E1BLL9","2","2","2","Out at first homolog",1,2,2,2
+"355","E1BMJ0","E1BMJ0","21","21","1","Serpin family G member 1",1,21,21,1
+"356","E1BMV3","E1BMV3","1","1","1","Matrilin 1",1,1,1,1
+"357","E1BMX5;Q5JWQ4;E7EX60;Q5T7F0;E9PEP6;O14786;H0Y4A0;Q5JWQ6","E1BMX5;Q5JWQ4;E7EX60;Q5T7F0;E9PEP6;O14786","4;3;3;3;3;3;1;1","4;3;3;3;3;3;1;1","4;3;3;3;3;3;1;1","Neuropilin;Neuropilin-1;Neuropilin-1;Neuropilin;Neuropilin;Neuropilin-1",8,4,4,4
+"358","E1BNR0;A0A3Q1MFR4;CON__ENSEMBL:ENSBTAP00000032840;P04114;A8MUN2;H0Y512;Q9HDC9","E1BNR0;A0A3Q1MFR4","263;262;53;12;3;1;1","263;262;53;12;3;1;1","263;262;53;12;3;1;1","Apolipoprotein B;Apolipoprotein B",7,263,263,263
+"359","E1BPN4;Q7LGC8","E1BPN4;Q7LGC8","4;2","4;2","4;2","Sulfotransferase;Carbohydrate sulfotransferase 3",2,4,4,4
+"360","E1BPT8;Q9UM47","E1BPT8;Q9UM47","2;1","2;1","2;1","Notch receptor 3;Neurogenic locus notch homolog protein 3",2,2,2,2
+"361","E7ENL6;P12111;C9JNG9","E7ENL6;P12111","18;18;2","12;12;2","12;12;2","Collagen alpha-3(VI) chain;Collagen alpha-3(VI) chain",3,18,12,12
+"362","E7EQB2;E7ER44;P02788;C9JCF5","E7EQB2;E7ER44;P02788","5;5;5;1","2;2;2;1","2;2;2;1","Lactotransferrin (Fragment);Lactotransferrin;Lactotransferrin",4,5,2,2
+"363","Q9XSJ4;F1MB08;A0A3Q1MXQ0;A0A3Q1LGA6;A0A2R8Y879;E5RGZ4;A0A3Q1LMT0;Q3ZC09;A0A452DI31;A0A3Q1M0V5;P13929;K7ERS8;E5RI09;E5RG95;K7EPM1;K7EKN2;A0A3Q1MIY8;A6QR19;P09104;A0A2R8Y6I8;A0A2R8Y798;A0A2R8YEG5;F5H1C3;F5H0C8","Q9XSJ4;F1MB08;A0A3Q1MXQ0;A0A3Q1LGA6","14;14;13;12;4;3;3;3;3;3;3;2;2;2;2;2;2;2;2;1;1;1;1;1","14;14;13;12;4;3;3;3;3;3;3;2;2;2;2;2;2;2;2;1;1;1;1;1","5;5;5;5;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0","Alpha-enolase;Alpha-enolase;Alpha-enolase;Alpha-enolase",24,14,14,5
+"364","F1MBC5;P00741;P00740","F1MBC5;P00741","18;18;2","18;18;2","18;18;2","Coagulation factor IX;Coagulation factor IX",3,18,18,18
+"365","G3X7F3;F1MC45;E1BFN5","G3X7F3;F1MC45;E1BFN5","20;20;18","1;1;1","1;1;1","Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",3,20,1,1
+"366","F1MD77;F1N0T1;Q9Y6N6;R4GNC7","F1MD77","26;3;3;2","4;0;0;0","4;0;0;0","Laminin subunit gamma 1",4,26,4,4
+"368","F1MER7;A0A0U1RQT3","F1MER7","24;3","24;3","13;0","Heparan sulfate proteoglycan 2",2,24,24,13
+"369","F1MEW5;Q8IY13;H7BZ65;Q53RD9","F1MEW5;Q8IY13;H7BZ65;Q53RD9","2;1;1;1","2;1;1;1","2;1;1;1","Fibulin 7;FBLN7 protein (Fragment);Fibulin-7 (Fragment);Fibulin-7",4,2,2,2
+"370","F1MFW9","F1MFW9","4","2","2","Keratin 24",1,4,2,2
+"371","F1MU18;F1MGK8;Q99650","F1MU18;F1MGK8","7;7;1","7;7;1","7;7;1","Oncostatin M receptor;Oncostatin M receptor",3,7,7,7
+"372","Q3SZZ9;F1MGU7;A0A3Q1MV91;A0A3Q1N064;P12799;C9JEU5;C9JC84;P02679","Q3SZZ9;F1MGU7;A0A3Q1MV91;A0A3Q1N064;P12799","23;23;21;20;19;3;3;3","23;23;21;20;19;3;3;3","23;23;21;20;19;3;3;3","FGG protein;Fibrinogen gamma-B chain;Fibrinogen gamma-B chain;Fibrinogen gamma-B chain;Fibrinogen gamma-B chain",8,23,23,23
+"373","F1MH27","F1MH27","16","1","1","Acidic mammalian chitinase",1,16,1,1
+"374","F1MH40","F1MH40","11","2","2","Uncharacterized protein",1,11,2,2
+"375","F1MHP5;E9PD35;P35916","F1MHP5","3;1;1","3;1;1","3;1;1","Fms related tyrosine kinase 4",3,3,3,3
+"376","Q95132;F1MI38;Q28125;F1MQF0","Q95132;F1MI38","3;3;1;1","3;3;1;1","3;3;1;1","Intercellular adhesion molecule 1;Intercellular adhesion molecule 1",4,3,3,3
+"377","F1MIE6;P11717;S4R328","F1MIE6","52;5;1","1;0;0","1;0;0","Cation-independent mannose-6-phosphate receptor",3,52,1,1
+"378","F1MJK3","F1MJK3","82","81","1","Uncharacterized protein",1,82,81,1
+"379","F1MKG2;Q1JQB0;H7C0M5","F1MKG2;Q1JQB0","4;3;1","4;3;1","1;0;0","Collagen type VI alpha 2 chain;Collagen type VI alpha 2 chain",3,4,4,1
+"380","Q9GLE5;F1MKH8;A0A3Q1LNI1;H3BV48;H3BR66","Q9GLE5;F1MKH8;A0A3Q1LNI1","11;11;10;3;3","11;11;10;3;3","3;3;3;0;0","72 kDa type IV collagenase;72 kDa type IV collagenase;72 kDa type IV collagenase",5,11,11,3
+"381","F1MKS5;P04196","F1MKS5","14;1","14;1","10;0","Histidine-rich glycoprotein",2,14,14,10
+"382","F1MLW8;A0A3Q1LT19;A0A0B4J231;B9A064","F1MLW8;A0A3Q1LT19","8;6;1;1","3;2;1;1","3;2;1;1","Uncharacterized protein;Ig-like domain-containing protein",4,8,3,3
+"384","F1MME1;H0YDP9;Q5TG12;E9PGC5;Q15262","F1MME1;H0YDP9;Q5TG12;E9PGC5;Q15262","2;1;1;1;1","2;1;1;1;1","2;1;1;1;1","Protein tyrosine phosphatase receptor type K;Receptor-type tyrosine-protein phosphatase kappa (Fragment);Receptor-type tyrosine-protein phosphatase kappa;Receptor-type tyrosine-protein phosphatase kappa;Receptor-type tyrosine-protein phosphatase kappa",5,2,2,2
+"385","F1MMJ5;Q32LP0;Q86UX7;H0YFT5","F1MMJ5;Q32LP0;Q86UX7","3;3;2;1","3;3;2;1","3;3;2;1","Fermitin family homolog 3;Fermitin family homolog 3;Fermitin family homolog 3",4,3,3,3
+"387","Q2TBI0;F1MNN7;A0A3Q1LKB0","Q2TBI0;F1MNN7;A0A3Q1LKB0","12;12;11","12;12;11","12;12;11","Lipopolysaccharide-binding protein;Lipopolysaccharide-binding protein;Lipopolysaccharide-binding protein",3,12,12,12
+"388","F1MNS5","F1MNS5","2","2","2","Ectonucleotide pyrophosphatase/phosphodiesterase 1",1,2,2,2
+"389","F1MNV5","F1MNV5","30","2","2","Kininogen-1",1,30,2,2
+"390","F1MPE1;A0A3Q1M849;A0A3Q1LTK9;A0A3Q1M6A2;A0A3Q1N1N6;A0A3Q1LI93;A0A3Q1M299;Q6YHK3","F1MPE1;A0A3Q1M849;A0A3Q1LTK9;A0A3Q1M6A2;A0A3Q1N1N6;A0A3Q1LI93;A0A3Q1M299","28;27;27;27;27;27;25;2","28;27;27;27;27;27;25;2","28;27;27;27;27;27;25;2","CD109 molecule;CD109 molecule;CD109 molecule;CD109 molecule;CD109 molecule;CD109 molecule;CD109 molecule",8,28,28,28
+"391","F1MPK6;A0A140T956;A0A140T9C0;A0A140T902;A0A140T8Y3;A0A140TA52;A0A140TA41;A0A140TA33;A0A3B3ISX9;P22105;C9J7W4;A0A087WWA5;A0A140T8Z8","F1MPK6","9;2;2;2;2;2;2;2;2;2;1;1;1","9;2;2;2;2;2;2;2;2;2;1;1;1","9;2;2;2;2;2;2;2;2;2;1;1;1","Tenascin XB",13,9,9,9
+"392","F1MQ37;P35579","F1MQ37;P35579","7;7","7;7","7;7","Myosin heavy chain 9;Myosin-9",2,7,7,7
+"393","F1MQJ0;P12820","F1MQJ0","9;1","9;1","9;1","Angiotensin-converting enzyme",2,9,9,9
+"394","F1MRZ8","F1MRZ8","3","3","3","Pleckstrin",1,3,3,3
+"395","F1MS00","F1MS00","1","1","1","Proto-oncogene tyrosine-protein kinase receptor Ret",1,1,1,1
+"396","Q32KY0;F1MS32","Q32KY0;F1MS32","5;5","5;5","5;5","Apolipoprotein D;Apolipoprotein D",2,5,5,5
+"397","F1MTI7;F1N5T0;A0A3Q1MZ77;P69678;A0A3Q1M083;C9IZG4;O60888","F1MTI7;F1N5T0;A0A3Q1MZ77;P69678;A0A3Q1M083","3;3;2;2;2;1;1","3;3;2;2;2;1;1","3;3;2;2;2;1;1","Protein CutA;Protein CutA;Protein CutA;Protein CutA;Protein CutA",7,3,3,3
+"398","F1MTT3;P98140;A0A3Q1M6N6","F1MTT3;P98140;A0A3Q1M6N6","13;12;11","13;12;11","13;12;11","Coagulation factor XII;Coagulation factor XII;Coagulation factor XII",3,13,13,13
+"399","F1MUT4;A0A3Q1LT55;P03951","F1MUT4;A0A3Q1LT55","23;22;2","22;21;1","1;1;0","Coagulation factor XI;Coagulation factor XI",3,23,22,1
+"400","P31081;F1MUZ9;P10809;C9J0S9;C9JL19;C9JCQ4;C9JL25;E7EXB4;E7ESH4","P31081;F1MUZ9;P10809;C9J0S9;C9JL19;C9JCQ4;C9JL25;E7EXB4;E7ESH4","2;2;2;1;1;1;1;1;1","2;2;2;1;1;1;1;1;1","2;2;2;1;1;1;1;1;1","60 kDa heat shock protein, mitochondrial;60 kDa heat shock protein, mitochondrial;60 kDa heat shock protein, mitochondrial;60 kDa heat shock protein, mitochondrial (Fragment);60 kDa heat shock protein, mitochondrial (Fragment);60 kDa heat shock protein, mi",9,2,2,2
+"402","F1MVP0","F1MVP0","17","17","16","ADAM metallopeptidase with thrombospondin type 1 motif 13",1,17,17,16
+"403","F1MVS9","F1MVS9","7","2","2","Mannan binding lectin serine peptidase 1",1,7,2,2
+"404","F1MW05","F1MW05","1","1","1","Guanylate cyclase domain-containing protein",1,1,1,1
+"405","F1MW44;A0A3Q1LTB9;P12260;H0Y4W5;P00488","F1MW44;A0A3Q1LTB9","16;15;3;1;1","16;15;3;1;1","16;15;3;1;1","Coagulation factor XIII A chain;Coagulation factor XIII A chain",5,16,16,16
+"406","F1MXR3;Q6UY14","F1MXR3;Q6UY14","2;2","2;2","2;2","ADAMTS like 4;ADAMTS-like protein 4",2,2,2,2
+"407","F1MY84;Q6UVK1","F1MY84","4;1","4;1","4;1","Chondroitin sulfate proteoglycan 4",2,4,4,4
+"409","Q27972;F1MYE4;O15335","Q27972;F1MYE4;O15335","3;3;3","3;3;3","3;3;3","Chondroadherin;Chondroadherin;Chondroadherin",3,3,3,3
+"410","F1MYX2;A0A3Q1MB70;Q5SRP5;O95445","F1MYX2;A0A3Q1MB70","9;8;1;1","9;8;1;1","9;8;1;1","Apolipoprotein M;Apolipoprotein M",4,9,9,9
+"411","F1MZ96","F1MZ96","11","11","1","Uncharacterized protein",1,11,11,1
+"412","P03972;F1MZL1;P03971","P03972;F1MZL1;P03971","2;2;1","2;2;1","2;2;1","Muellerian-inhibiting factor;Muellerian-inhibiting factor;Muellerian-inhibiting factor",3,2,2,2
+"413","F1N0I3","F1N0I3","54","54","2","Coagulation factor V",1,54,54,2
+"414","F1N0K0;P12107;C9JMN2;A0A2R8Y4M5;A0A2R8Y4I5;A0A2R8Y5N4;A0A2R8YDU3;H7C381","F1N0K0;P12107;C9JMN2;A0A2R8Y4M5;A0A2R8Y4I5;A0A2R8Y5N4;A0A2R8YDU3","7;5;4;4;4;4;4;3","7;5;4;4;4;4;4;3","7;5;4;4;4;4;4;3","Collagen alpha-1(XI) chain;Collagen alpha-1(XI) chain;Collagen alpha-1(XI) chain (Fragment);Collagen alpha-1(XI) chain;Collagen alpha-1(XI) chain;Collagen alpha-1(XI) chain;Collagen alpha-1(XI) chain",8,7,7,7
+"415","F1N0X0;Q9NPG4;A0A3Q1LYJ3;E1BAU4;O14917","F1N0X0","8;2;1;1;1","8;2;1;1;1","8;2;1;1;1","Protocadherin 12",5,8,8,8
+"416","F1N102;F5GY80;F5H7G1;P07358","F1N102","20;3;3;3","20;3;3;3","20;3;3;3","Complement C8 beta chain",4,20,20,20
+"417","F1N160","F1N160","9","9","0","Uncharacterized protein",1,9,9,0
+"418","F1N169;Q60FE5;P21333;A0A3Q1M057;A0A3Q1LMA3;A0A087WWY3;F8WE98;H7C2E7;H0Y5F3;H0Y5C6;A0A3Q1M0Y7;A0A3Q1MZI6;A0A3Q1MQ34;E1BKX7","F1N169;Q60FE5;P21333;A0A3Q1M057;A0A3Q1LMA3;A0A087WWY3","15;13;13;12;12;10;5;1;1;1;1;1;1;1","15;13;13;12;12;10;5;1;1;1;1;1;1;1","14;12;12;11;11;9;4;1;1;1;0;0;0;0","Filamin A;Filamin-A;Filamin-A;Filamin A;Filamin A;Filamin-A",14,15,15,14
+"419","F1N2E4","F1N2E4","2","2","2","Elastin microfibril interfacer 3",1,2,2,2
+"420","F1N2K1","F1N2K1","2","2","2","Prenylcysteine oxidase 1",1,2,2,2
+"421","F1N2W0;Q3SZJ4","F1N2W0;Q3SZJ4","6;5","6;5","6;5","Prostaglandin reductase 1;Prostaglandin reductase 1",2,6,6,6
+"422","F1N367;P13608;F1N368","F1N367;P13608;F1N368","2;2;2","2;2;2","2;2;2","Aggrecan core protein;Aggrecan core protein;Aggrecan core protein",3,2,2,2
+"424","Q3ZCJ8;F1N455;P53634;H0YCY8","Q3ZCJ8;F1N455","11;11;2;1","11;11;2;1","11;11;2;1","Dipeptidyl peptidase 1;Dipeptidyl peptidase 1",4,11,11,11
+"426","F1N665","F1N665","2","2","2","Arylsulfatase G",1,2,2,2
+"427","F1N6H4;E9PLY0;E9PLY5;E9PNZ4;A0A5F9ZGX0;A0A590UJG2;A0A3Q1ME09;H3BPE1;H3BQK9;Q9UPN3","F1N6H4;E9PLY0;E9PLY5;E9PNZ4;A0A5F9ZGX0;A0A590UJG2;A0A3Q1ME09;H3BPE1;H3BQK9;Q9UPN3","2;1;1;1;1;1;1;1;1;1","2;1;1;1;1;1;1;1;1;1","2;1;1;1;1;1;1;1;1;1","Microtubule actin crosslinking factor 1;Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5;Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5 (Fragment);Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5 (Fragment);Microtubule-actin",10,2,2,2
+"428","F1N789;A0A3Q1MN97;A0A3Q1MRN4;P18206;A0A3Q1LIB4;A0A096LPE1","F1N789;A0A3Q1MN97;A0A3Q1MRN4;P18206;A0A3Q1LIB4","24;23;23;22;21;2","24;23;23;22;21;2","24;23;23;22;21;2","Vinculin;Vinculin;Vinculin;Vinculin;Vinculin",6,24,24,24
+"429","P07455;F2X2F3;F2X2F1;P05019","P07455;F2X2F3;F2X2F1;P05019","2;2;2;2","2;2;2;2","2;2;2;2","Insulin-like growth factor I;Insulin-like growth factor I;Insulin-like growth factor I;Insulin-like growth factor I",4,2,2,2
+"431","F6R4N7","F6R4N7","2","2","2","Superoxide dismutase [Cu-Zn]",1,2,2,2
+"432","Q0VCH9;F6RBS0;Q9H4G4","Q0VCH9;F6RBS0;Q9H4G4","1;1;1","1;1;1","1;1;1","GLI pathogenesis-related 2;GLI pathogenesis related 2;Golgi-associated plant pathogenesis-related protein 1",3,1,1,1
+"433","G3MZE0","G3MZE0","3","1","1","Ig-like domain-containing protein",1,3,1,1
+"434","G3MZI7;P20908","G3MZI7;P20908","6;3","6;3","6;3","Collagen type V alpha 1 chain;Collagen alpha-1(V) chain",2,6,6,6
+"435","Q6URK6;G3MZL1;REV__M0R3B3;I3L1J2;REV__Q9BT25;P33151","Q6URK6;G3MZL1","21;21;1;1;1;1","21;21;1;1;1;1","21;21;1;1;1;1","Cadherin-5;Cadherin-5",6,21,21,21
+"436","G3N0V0;A0A3Q1N3I9","G3N0V0;A0A3Q1N3I9","13;12","6;5","6;5","Uncharacterized protein;Uncharacterized protein",2,13,6,6
+"437","G3N148;G3N3Q3","G3N148;G3N3Q3","4;4","3;3","3;3","Ig-like domain-containing protein;Ig-like domain-containing protein",2,4,3,3
+"438","G3N1H5","G3N1H5","3","2","2","Ig-like domain-containing protein",1,3,2,2
+"439","G3N1U4;A0A452DJA9","G3N1U4;A0A452DJA9","22;20","3;3","2;2","Serpin A3-3;Serpin A3-3",2,22,3,2
+"440","G3V1N2;P69905","G3V1N2;P69905","5;5","1;1","1;1","HCG1745306, isoform CRA_a;Hemoglobin subunit alpha",2,5,1,1
+"441","G3X6N3","G3X6N3","98","2","2","Serotransferrin",1,98,2,2
+"442","G3X6Y4;Q99983","G3X6Y4","4;1","4;1","1;0","Osteomodulin",2,4,4,1
+"443","G3X7N4;Q3T0P6;P00558;A0A3Q1MPQ0","G3X7N4;Q3T0P6;P00558","4;4;2;1","4;4;2;1","4;4;2;1","Phosphoglycerate kinase;Phosphoglycerate kinase 1;Phosphoglycerate kinase 1",4,4,4,4
+"444","G3XAI2;P07942;E7EPA6","G3XAI2;P07942;E7EPA6","21;21;12","5;5;1","5;5;1","Laminin subunit beta-1;Laminin subunit beta-1;Laminin subunit beta-1",3,21,5,5
+"446","G5E507;Q76LV1;P08238;G3N2V5;F8W026;Q96GW1;A0A1W2PRR1;Q95M18;P14625","G5E507;Q76LV1;P08238;G3N2V5","4;4;4;2;1;1;1;1;1","3;3;3;2;1;1;1;1;1","3;3;3;2;1;1;1;1;1","Heat shock protein HSP 90-beta;Heat shock protein HSP 90-beta;Heat shock protein HSP 90-beta;HATPase_c domain-containing protein",9,4,3,3
+"447","G5E5A8;P07589;G5E5A9;A0A3Q1NHX9;G5E5B0;A0A3Q1M4K6;H0Y4K8","G5E5A8;P07589;G5E5A9;A0A3Q1NHX9;G5E5B0;A0A3Q1M4K6","82;81;81;79;79;73;4","82;81;81;79;79;73;4","39;38;38;37;38;33;0","Fibronectin;Fibronectin;Fibronectin;Fibronectin;Fibronectin;Fibronectin",7,82,82,39
+"448","G5E5T5;A0A3Q1LPI6","G5E5T5;A0A3Q1LPI6","16;10","2;2","2;2","Uncharacterized protein;Uncharacterized protein",2,16,2,2
+"449","G5E5V1","G5E5V1","4","1","0","Ig-like domain-containing protein",1,4,1,0
+"450","G5E5W1","G5E5W1","1","1","1","Coagulation factor VIII",1,1,1,1
+"451","G8JKW7","G8JKW7","19","2","2","Serpin A3-7",1,19,2,2
+"452","H0YD13;H0YDW7;H0YCV9;H0Y5E4;P16070;E9PKC6;Q86UZ1;H0YDX6;H0YD17;H0Y2P0;Q29423;Q0VD03;F1MHC3;A0A3Q1MHE2;A0A3Q1M161;A0A3Q1LHV0;A0A3Q1MDJ9;A0A3Q1M0L0;A0A3Q1LZS6;F1MQT9","H0YD13;H0YDW7;H0YCV9;H0Y5E4;P16070;E9PKC6;Q86UZ1;H0YDX6;H0YD17;H0Y2P0;Q29423;Q0VD03;F1MHC3;A0A3Q1MHE2;A0A3Q1M161;A0A3Q1LHV0;A0A3Q1MDJ9;A0A3Q1M0L0;A0A3Q1LZS6;F1MQT9","2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","2;2;2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","CD44 antigen;CD44 antigen (Fragment);CD44 antigen (Fragment);CD44 antigen (Fragment);CD44 antigen;CD44 antigen;CD44 antigen;CD44 antigen (Fragment);CD44 antigen (Fragment);CD44 antigen (Fragment);CD44 antigen;CD44 antigen;CD44 antigen;CD44 antigen;CD44 ant",20,2,2,2
+"453","H0YLC2;H0YKT8;H0YMI6;H0YMA1;H0YMZ1;H0YN18;H0YL69;Q3ZCK9;P25789;H0YMV3;H0YKS0;H0YLS6","H0YLC2;H0YKT8;H0YMI6;H0YMA1;H0YMZ1;H0YN18;H0YL69;Q3ZCK9;P25789;H0YMV3;H0YKS0;H0YLS6","2;2;2;2;2;2;2;2;2;1;1;1","2;2;2;2;2;2;2;2;2;1;1;1","2;2;2;2;2;2;2;2;2;1;1;1","Proteasome subunit alpha type;Proteasome subunit beta (Fragment);Proteasome subunit alpha type (Fragment);Proteasome subunit alpha type (Fragment);Proteasome subunit alpha type (Fragment);Proteasome endopeptidase complex;Proteasome subunit alpha type (Frag",12,2,2,2
+"455","H7C539;P49796;C9J6G2;C9J582;Q5VXC0;F1N7R3","H7C539;P49796;C9J6G2;C9J582;Q5VXC0;F1N7R3","2;2;1;1;1;1","2;2;1;1;1;1","2;2;1;1;1;1","Regulator of G-protein-signaling 3 (Fragment);Regulator of G-protein signaling 3;Regulator of G-protein-signaling 3 (Fragment);Regulator of G-protein-signaling 3 (Fragment);Regulator of G-protein-signaling 3;Regulator of G protein signaling 3",6,2,2,2
+"456","J3KMX3;P02771","J3KMX3;P02771","8;8","1;1","1;1","Alpha-fetoprotein;Alpha-fetoprotein",2,8,1,1
+"457","J3KPD9;Q32Q12;E7ERL0;Q3T0Q4;P22392;P15531;F6XY72;E5RHP0;P52175;P52174;O60361;C9K028","J3KPD9;Q32Q12;E7ERL0;Q3T0Q4;P22392;P15531;F6XY72;E5RHP0;P52175;P52174;O60361","4;4;3;3;3;3;2;2;2;2;2;1","4;4;3;3;3;3;2;2;2;2;2;1","4;4;3;3;3;3;2;2;2;2;2;1","NME1-NME2 readthrough;Nucleoside diphosphate kinase;Nucleoside diphosphate kinase A;Nucleoside diphosphate kinase B;Nucleoside diphosphate kinase B;Nucleoside diphosphate kinase A;HCG2001850, isoform CRA_c;Nucleoside diphosphate kinase A;Nucleoside diphosp",12,4,4,4
+"458","K7ELW0;Q5E946;Q99497;K7EN27","K7ELW0;Q5E946;Q99497;K7EN27","2;2;2;1","2;2;2;1","2;2;2;1","Protein/nucleic acid deglycase DJ-1;Parkinson disease protein 7 homolog;Parkinson disease protein 7;Protein/nucleic acid deglycase DJ-1 (Fragment)",4,2,2,2
+"459","P55918;K7ES70;P55083","P55918;K7ES70;P55083","2;2;2","2;2;2","2;2;2","Microfibril-associated glycoprotein 4;Microfibril-associated glycoprotein 4;Microfibril-associated glycoprotein 4",3,2,2,2
+"461","O02659","O02659","8","8","8","Mannose-binding protein C",1,8,8,8
+"462","O14498;H0YL90;H0YN67","O14498;H0YL90;H0YN67","4;3;2","4;3;2","3;2;2","Immunoglobulin superfamily containing leucine-rich repeat protein;Immunoglobulin superfamily-containing leucine-rich repeat protein (Fragment);Immunoglobulin superfamily-containing leucine-rich repeat protein (Fragment)",3,4,4,3
+"463","O46375;A0A3Q1MRM2;A0A087WV45;A0A087WT59;P02766","O46375;A0A3Q1MRM2","15;11;1;1;1","15;11;1;1;1","15;11;1;1;1","Transthyretin;Transthyretin",5,15,15,15
+"464","O46415;A0A3Q1MF87;A0A3Q1MM35;F1MMT9","O46415;A0A3Q1MF87;A0A3Q1MM35;F1MMT9","3;2;2;2","3;2;2;2","3;2;2;2","Ferritin light chain;Ferritin;Ferritin;Ferritin",4,3,3,3
+"465","O62644;D6RD58;O14960","O62644;D6RD58;O14960","2;1;1","2;1;1","2;1;1","Leukocyte cell-derived chemotaxin-2;Leukocyte cell-derived chemotaxin-2;Leukocyte cell-derived chemotaxin-2",3,2,2,2
+"466","O75165","O75165","1","1","1","DnaJ homolog subfamily C member 13",1,1,1,1
+"468","O77834;A0A3Q1LKU1","O77834;A0A3Q1LKU1","7;5","7;5","5;3","Peroxiredoxin-6;Thioredoxin domain-containing protein",2,7,7,5
+"469","O97680;P10599","O97680;P10599","4;3","4;3","4;3","Thioredoxin;Thioredoxin",2,4,4,4
+"470","O97764","O97764","1","1","1","Zeta-crystallin",1,1,1,1
+"471","P00442;F1MNQ4","P00442;F1MNQ4","2;1","2;1","2;1","Superoxide dismutase [Cu-Zn];Superoxide dismutase [Cu-Zn]",2,2,2,2
+"472","P00760","P00760","12","12","11","Cationic trypsin",1,12,12,11
+"473","P00921;F1N0H3;A0A3Q1MM44","P00921;F1N0H3;A0A3Q1MM44","4;3;2","4;3;2","4;3;2","Carbonic anhydrase 2;Carbonic anhydrase 2;Carbonic anhydrase 2",3,4,4,4
+"474","P01008;Q8TCE1","P01008","11;4","2;1","2;1","Antithrombin-III",2,11,2,2
+"475","P01023","P01023","11","2","2","Alpha-2-macroglobulin",1,11,2,2
+"476","P01030","P01030","51","1","0","Complement C4 (Fragments)",1,51,1,0
+"477","Q5H9A7;P01033;H0Y789;Q5H9B5","Q5H9A7;P01033;H0Y789","5;5;4;1","5;5;4;1","4;4;3;1","Metalloproteinase inhibitor 1;Metalloproteinase inhibitor 1;Metalloproteinase inhibitor 1 (Fragment)",4,5,5,4
+"478","P01034","P01034","1","1","1","Cystatin-C",1,1,1,1
+"479","P01035;A0A3Q1LR19","P01035;A0A3Q1LR19","7;4","7;4","7;4","Cystatin-C;Cystatin-C",2,7,7,7
+"481","P02192","P02192","3","3","3","Myoglobin",1,3,3,3
+"482","P02452;CON__Q862S4;I3L3H7","P02452","15;3;2","15;3;2","5;0;2","Collagen alpha-1(I) chain",3,15,15,5
+"483","P02453","P02453","15","5","5","Collagen alpha-1(I) chain",1,15,5,5
+"484","P02459;P02458","P02459;P02458","4;3","4;3","4;3","Collagen alpha-1(II) chain;Collagen alpha-1(II) chain",2,4,4,4
+"485","Q5T7Y5;Q5T7Y4;P02639;P23297","Q5T7Y5;Q5T7Y4;P02639;P23297","1;1;1;1","1;1;1;1","1;1;1;1","Protein S100-A1 (Fragment);Protein S100-A1;Protein S100-A1;Protein S100-A1",4,1,1,1
+"486","P02751;H0Y7Z1","P02751","65;30","22;10","22;10","Fibronectin",2,65,22,22
+"487","P02787;H7C5E8","P02787;H7C5E8","6;4","2;2","2;2","Serotransferrin;Serotransferrin (Fragment)",2,6,2,2
+"488","Q9BS19;P02790","Q9BS19;P02790","1;1","1;1","1;1","Epididymis secretory sperm binding protein;Hemopexin",2,1,1,1
+"489","P03956;P28053;F1MT97;F1MM68","P03956","8;1;1;1","8;1;1;1","8;1;1;1","Interstitial collagenase",4,8,8,8
+"490","P04075;H3BQN4;J3KPS3;H3BPS8;H3BUH7;H3BR04;H3BMQ8;H3BU78;H3BR68","P04075;H3BQN4;J3KPS3;H3BPS8;H3BUH7;H3BR04;H3BMQ8","10;9;9;7;6;6;5;4;2","2;2;2;1;1;2;1;1;0","2;2;2;1;1;2;1;1;0","Fructose-bisphosphate aldolase A;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase;Fructose-bisphosphate aldolase A (Fragment);Fructose-bisphosphate aldolase A (Fragment);Fructose-bisphosphate aldolase A (Fragment);Fructose-bisphosphate aldolas",9,10,2,2
+"491","P04083;Q5T3N1;Q5T3N0","P04083;Q5T3N1","3;2;1","3;2;1","3;2;1","Annexin A1;Annexin (Fragment)",3,3,3,3
+"493","P04275","P04275","11","8","8","von Willebrand factor",1,11,8,8
+"494","P04406;E7EUT5;O14556","P04406;E7EUT5","10;7;1","6;4;0","6;4;0","Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase",3,10,6,6
+"495","Q06284;Q06283;P04421;Q06285","Q06284;Q06283;P04421;Q06285","2;2;2;1","2;2;2;1","2;2;2;1","Lysozyme C-3;Lysozyme C-2;Lysozyme C;Lysozyme C-1",4,2,2,2
+"496","P05121;P13909;A0A452DIJ9","P05121","12;3;3","12;3;3","12;3;3","Plasminogen activator inhibitor 1",3,12,12,12
+"497","P42899;P05387","P42899;P05387","1;1","1;1","1;1","60S acidic ribosomal protein P2;60S acidic ribosomal protein P2",2,1,1,1
+"498","P05689;A0A3Q1M2V6;Q9UBR2","P05689;A0A3Q1M2V6","5;4;1","5;4;1","5;4;1","Cathepsin Z;Cathepsin Z",3,5,5,5
+"499","P06702","P06702","3","3","3","Protein S100-A9",1,3,3,3
+"500","P06733;A0A2R8Y6G6;K7EM90;A0A2R8YEM5","P06733;A0A2R8Y6G6;K7EM90","11;10;7;5","2;2;2;1","2;2;2;1","Alpha-enolase;Alpha-enolase;Alpha-enolase (Fragment)",4,11,2,2
+"501","P07355;H0YN42;P04272;H0YMD0;H0YMU9;H0YM50;A6NMY6;H0YNP5;H0YKS4;H0YN28;H0YL33;H0YMM1;H0YNA0;H0YKZ7;H0YLV6;H0YMT9;H0YKX9;H0YMW4;H0YKL9;H0YN52;H0YMD9;H0YKV8;H0YLE2;H0YNB8;H0YKN4","P07355;H0YN42;P04272;H0YMD0;H0YMU9;H0YM50;A6NMY6;H0YNP5;H0YKS4;H0YN28;H0YL33;H0YMM1","14;12;12;11;11;10;10;8;8;7;7;7;5;5;5;5;5;5;4;3;3;3;2;2;2","14;12;12;11;11;10;10;8;8;7;7;7;5;5;5;5;5;5;4;3;3;3;2;2;2","14;12;12;11;11;10;10;8;8;7;7;7;5;5;5;5;5;5;4;3;3;3;2;2;2","Annexin A2;Annexin (Fragment);Annexin A2;Annexin (Fragment);Annexin;Annexin (Fragment);Putative annexin A2-like protein;Annexin (Fragment);Annexin (Fragment);Annexin (Fragment);Annexin (Fragment);Annexin (Fragment)",25,14,14,14
+"502","Q5JP53;Q2KJD0;P07437;Q5ST81;E1B953;Q6B856;E1BJB1;A0A452DIL8;Q9BVA1;Q13885;G3X7R7;G3N1W7;Q2T9S0;A0A0B4J269;Q13509;G3V5W4;G3V2R8;G3V3R4;G3V2N6","Q5JP53;Q2KJD0;P07437;Q5ST81;E1B953;Q6B856;E1BJB1;A0A452DIL8;Q9BVA1;Q13885;G3X7R7;G3N1W7;Q2T9S0;A0A0B4J269;Q13509","13;13;13;12;11;11;11;11;11;11;8;8;7;7;7;1;1;1;1","13;13;13;12;11;11;11;11;11;11;8;8;7;7;7;1;1;1;1","2;2;2;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","Tubulin beta chain;Tubulin beta-5 chain;Tubulin beta chain;Tubulin beta chain;Tubulin beta chain;Tubulin beta-2B chain;Tubulin beta chain;Tubulin beta chain;Tubulin beta-2B chain;Tubulin beta-2A chain;Tubulin beta chain;Tubulin beta chain;Tubulin beta-3 ch",19,13,13,2
+"503","P07688;P07858","P07688","4;1","4;1","4;1","Cathepsin B",2,4,4,4
+"504","P07737;K7EJ44;I3L3D5","P07737;K7EJ44","7;4;3","3;2;2","3;2;2","Profilin-1;Profilin",3,7,3,3
+"505","Q76LV2;P07900;A0A452DI85;A0A3Q1MBX2;Q58FG0","Q76LV2;P07900;A0A452DI85","5;5;3;2;1","5;5;3;2;1","4;4;2;2;1","Heat shock protein HSP 90-alpha;Heat shock protein HSP 90-alpha;Heat shock protein HSP 90-alpha",5,5,5,4
+"506","P07996;A8MZG1;A0A3B3ITK0;P35442","P07996","53;4;4;4","14;1;1;1","14;1;1;1","Thrombospondin-1",4,53,14,14
+"507","P08037;P15291","P08037","4;1","4;1","4;1","Beta-1,4-galactosyltransferase 1",2,4,4,4
+"508","P08169","P08169","52","52","1","Cation-independent mannose-6-phosphate receptor",1,52,52,1
+"509","P08254;H7C139;F5GYX7;F1MTX6;P09238","P08254","12;3;1;1;1","12;3;1;1;1","12;3;1;1;1","Stromelysin-1",5,12,12,12
+"510","P08572;A0A3B3IS47;Q7SIB3;A0A087WY39;A0A3B3ITQ8;A0A3Q1LT89;F1N7Q7;A0A3Q1NK70;A0A3Q1LZF7;A0A3Q1MPS8;A0A3Q1LLV2","P08572;A0A3B3IS47","4;2;1;1;1;1;1;1;1;1;1","4;2;1;1;1;1;1;1;1;1;1","4;2;1;1;1;1;1;1;1;1;1","Collagen alpha-2(IV) chain;Collagen alpha-2(IV) chain (Fragment)",11,4,4,4
+"511","P09382;F8WEI7","P09382","7;2","7;2","5;1","Galectin-1",2,7,7,5
+"512","P10096;A0A3Q1M8J9;Q2KJE5","P10096;A0A3Q1M8J9","11;8;2","11;8;2","7;5;1","Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase",3,11,11,7
+"513","Q2NKV1;P10152;A0A3Q1MIF5","Q2NKV1;P10152;A0A3Q1MIF5","2;2;1","2;2;1","2;2;1","Angiogenin, ribonuclease, RNase A family, 5;Angiogenin-1;Ribonuclease A family member 4",3,2,2,2
+"514","Q0VCX2;P11021","Q0VCX2;P11021","4;4","4;4","4;4","Endoplasmic reticulum chaperone BiP;Endoplasmic reticulum chaperone BiP",2,4,4,4
+"515","P11047","P11047","28","28","6","Laminin subunit gamma-1",1,28,28,6
+"516","P11116","P11116","5","3","3","Galectin-1",1,5,3,3
+"517","P19120;P11142;E9PKE3;A0A3Q1LMS5;E9PN89;A0A3Q1M8L6;A7E3Q2;P54652;E9PI65;E9PQQ4;E9PQK7;E9PK54;E9PLF4;E9PNE6;P34933;A8K7Q2;E9PN25;E9PPY6","P19120;P11142;E9PKE3;A0A3Q1LMS5;E9PN89;A0A3Q1M8L6;A7E3Q2;P54652","9;9;8;8;7;6;5;5;4;4;4;4;4;4;4;3;2;2","9;9;8;8;7;6;5;5;4;4;4;4;4;4;4;3;2;2","7;7;6;6;7;4;3;3;3;3;3;3;3;2;2;2;1;1","Heat shock cognate 71 kDa protein;Heat shock cognate 71 kDa protein;Heat shock cognate 71 kDa protein;Heat shock cognate 71 kDa protein;Heat shock cognate 71 kDa protein (Fragment);Heat shock cognate 71 kDa protein;Heat shock 70kDa protein 1A;Heat shock-re",18,9,9,7
+"518","P13384;P18065;C9JMY1;C9JW52;H7C1H0","P13384;P18065;C9JMY1","11;7;6;2;1","11;7;6;2;1","11;7;6;2;1","Insulin-like growth factor-binding protein 2;Insulin-like growth factor-binding protein 2;Insulin-like growth factor-binding protein 2",5,11,11,11
+"519","P13605;Q06828;A0A3B3IRN5","P13605;Q06828;A0A3B3IRN5","8;5;4","8;5;4","8;5;4","Fibromodulin;Fibromodulin;Fibromodulin",3,8,8,8
+"520","Q3SYU2;P13639;A0A3Q1MM86","Q3SYU2;P13639","9;9;1","9;9;1","9;9;1","Elongation factor 2;Elongation factor 2",3,9,9,9
+"521","P13696;P30086","P13696;P30086","1;1","1;1","1;1","Phosphatidylethanolamine-binding protein 1;Phosphatidylethanolamine-binding protein 1",2,1,1,1
+"522","P14543","P14543","7","1","1","Nidogen-1",1,7,1,1
+"523","P14618;B4DNK4;H3BTN5;H3BQ34;H3BR70;H3BT25;H3BUW1;H3BTJ2","P14618;B4DNK4;H3BTN5;H3BQ34;H3BR70","11;9;9;6;6;4;4;4","3;2;2;2;1;1;1;1","3;2;2;2;1;1;1;1","Pyruvate kinase PKM;Pyruvate kinase;Pyruvate kinase (Fragment);Pyruvate kinase;Pyruvate kinase",8,11,3,3
+"524","P15467;Q58DP6;P34096","P15467;Q58DP6;P34096","2;2;1","2;2;1","2;2;1","Ribonuclease 4;Ribonuclease A family member 4;Ribonuclease 4",3,2,2,2
+"525","P15781;H0Y7V6;D6W5L6;P07988","P15781;H0Y7V6;D6W5L6;P07988","2;1;1;1","2;1;1;1","2;1;1;1","Pulmonary surfactant-associated protein B;Pulmonary surfactant-associated protein B (Fragment);Pulmonary surfactant-associated protein B;Pulmonary surfactant-associated protein B",4,2,2,2
+"526","P16035;B4DFW2;K7EIX4;P16368;K7EL90;F1N430","P16035;B4DFW2;K7EIX4;P16368","4;3;2;2;1;1","4;3;2;2;1;1","4;3;2;2;1;1","Metalloproteinase inhibitor 2;Metalloproteinase inhibitor 2;Metalloproteinase inhibitor 2;Metalloproteinase inhibitor 2",6,4,4,4
+"527","P17066;F1MWU9;Q53FA3;P0CB32;P48741;P34931;V9GZ37;E9PM13;E9PS65","P17066;F1MWU9;Q53FA3;P0CB32;P48741;P34931;V9GZ37","4;3;3;3;3;3;2;1;1","1;1;0;0;1;0;0;0;0","1;1;0;0;1;0;0;0;0","Heat shock 70 kDa protein 6;Heat shock protein family A (Hsp70) member 6;HSPA1L (Fragment);Heat shock 70 kDa protein 1-like;Putative heat shock 70 kDa protein 7;Heat shock 70 kDa protein 1-like;Heat shock 70 kDa protein 1A",9,4,1,1
+"528","Q3SZ62;P18669;Q8N0Y7;A0A3Q1MLW8;P15259","Q3SZ62;P18669;Q8N0Y7","4;4;3;1;1","4;4;3;1;1","4;4;3;1;1","Phosphoglycerate mutase 1;Phosphoglycerate mutase 1;Probable phosphoglycerate mutase 4",5,4,4,4
+"529","P19034;Q6P163;K7ER74;A0A3Q1NJ76;P02655","P19034;Q6P163;K7ER74;A0A3Q1NJ76;P02655","2;1;1;1;1","2;1;1;1;1","2;1;1;1;1","Apolipoprotein C-II;APOC2 protein;APOC4-APOC2 readthrough (NMD candidate);Apolipoprotein C-II;Apolipoprotein C-II",5,2,2,2
+"530","P19035;B0YIW2;P02656","P19035","3;1;1","3;1;1","3;1;1","Apolipoprotein C-III",3,3,3,3
+"531","Q3ZC30;P19217","Q3ZC30;P19217","3;3","3;3","3;3","Sulfotransferase;Sulfotransferase 1E1",2,3,3,3
+"532","P19858;A0A3Q1LY19;P00338;F5GXH2;F5GYU2;F5GXY2;F1MK19;E1BNS9;F5H5J4;F5H6W8","P19858;A0A3Q1LY19;P00338","10;9;5;2;2;2;2;2;1;1","8;7;3;2;2;2;1;1;1;1","8;7;3;2;2;2;1;1;1;1","L-lactate dehydrogenase A chain;L-lactate dehydrogenase;L-lactate dehydrogenase A chain",10,10,8,8
+"534","P20849","P20849","2","2","2","Collagen alpha-1(IX) chain",1,2,2,2
+"535","P20959","P20959","2","2","2","Insulin-like growth factor-binding protein 3",1,2,2,2
+"536","P21810;P21809","P21810;P21809","3;2","3;2","3;2","Biglycan;Biglycan",2,3,3,3
+"537","P22226;A0A3Q1LRG2","P22226","3;1","3;1","3;1","Cathelicidin-1",2,3,3,3
+"538","P22457","P22457","6","6","6","Coagulation factor VII",1,6,6,6
+"539","P23805;A0A452DJR7","P23805","6;2","3;0","3;0","Conglutinin",2,6,3,3
+"540","P24591","P24591","2","2","2","Insulin-like growth factor-binding protein 1",1,2,2,2
+"541","P25391","P25391","16","16","8","Laminin subunit alpha-1",1,16,16,8
+"542","Q5E998;P25975","Q5E998;P25975","2;2","2;2","2;2","Cathepsin L2;Cathepsin L1",2,2,2,2
+"543","P26022","P26022","9","9","9","Pentraxin-related protein PTX3",1,9,9,9
+"544","Q2HJ49;P26038;V9GZ54;A0A2R8Y7M3;P31976;Q32LP2;E7EQR4;A0A2R8Y5S7;A0A3Q1LVC7;P35241;P15311;A0A2R8Y5P0;E9PQ82;E9PNV3;A0A3Q1MS33","Q2HJ49;P26038;V9GZ54;A0A2R8Y7M3;P31976;Q32LP2;E7EQR4;A0A2R8Y5S7;A0A3Q1LVC7;P35241;P15311","4;4;2;2;2;2;2;2;2;2;2;1;1;1;1","4;4;2;2;2;2;2;2;2;2;2;1;1;1;1","4;4;2;2;2;2;2;2;2;2;2;1;1;1;1","Moesin;Moesin;Moesin (Fragment);Radixin;Ezrin;Radixin;Ezrin;Radixin;Ezrin;Radixin;Ezrin",15,4,4,4
+"545","P27797","P27797","4","4","1","Calreticulin",1,4,4,1
+"546","P30041","P30041","3","1","1","Peroxiredoxin-6",1,3,1,1
+"547","P31151;Q86SG5","P31151;Q86SG5","4;2","4;2","4;2","Protein S100-A7;Protein S100-A7A",2,4,4,4
+"548","P33433","P33433","5","1","1","Histidine-rich glycoprotein (Fragments)",1,5,1,1
+"550","P36222;A0A3Q1MT29;P30922;G3X7D2","P36222;A0A3Q1MT29;P30922;G3X7D2","2;1;1;1","2;1;1;1","2;1;1;1","Chitinase-3-like protein 1;Chitinase-3-like protein 1;Chitinase-3-like protein 1;Chitinase-3-like protein 1",4,2,2,2
+"551","P37141;A0A087X1J7;P22352","P37141","4;1;1","4;1;1","4;1;1","Glutathione peroxidase 3",3,4,4,4
+"552","P42916;A0A3Q1LUQ6","P42916","9;1","9;1","6;1","Collectin-43",2,9,9,6
+"553","P49907","P49907","2","2","2","Selenoprotein P",1,2,2,2
+"554","P52556;A0A3Q1NNJ3","P52556;A0A3Q1NNJ3","4;3","4;3","4;3","Flavin reductase (NADPH);Flavin reductase (NADPH)",2,4,4,4
+"555","P52898","P52898","4","4","4","Dihydrodiol dehydrogenase 3",1,4,4,4
+"556","P55906;A0A3Q1MNL9;F1MBS3;D6RBX4;H0YAH8","P55906;A0A3Q1MNL9;F1MBS3","31;29;29;1;1","31;29;29;1;1","18;18;16;0;0","Transforming growth factor-beta-induced protein ig-h3;Transforming growth factor-beta-induced protein ig-h3;Transforming growth factor-beta-induced protein ig-h3",5,31,31,18
+"557","P60174","P60174","7","2","2","Triosephosphate isomerase",1,7,2,2
+"558","P60712;P60709;A0A2R8Y793;A0A3Q1NKP5;E7EVS6;A0A2R8YGF8;G5E9R0;A0A2R8YFE2;C9JUM1;C9JZR7;Q562R1;C9JTX5;A0A2R8YEA7;F8WB63;B8ZZJ2;Q9BYX7;F8WCH0","P60712;P60709;A0A2R8Y793","27;27;19;10;9;9;8;7;7;7;7;6;6;5;5;4;2","27;27;19;10;9;9;8;7;7;7;7;6;6;5;5;4;2","1;1;1;0;1;1;1;0;1;1;0;1;0;0;0;0;0","Actin, cytoplasmic 1;Actin, cytoplasmic 1;Actin, cytoplasmic 1 (Fragment)",17,27,27,1
+"559","P61769;H0YLF3;F5H6I0","P61769;H0YLF3;F5H6I0","3;2;2","3;2;2","3;2;2","Beta-2-microglobulin;Beta-2-microglobulin (Fragment);Beta-2-microglobulin",3,3,3,3
+"560","P62326;P62328;A0A3Q1LXR1;G8JKY5;A0A0A0MPA1;A0A3Q1MS48;A0A3Q1MJ46","P62326;P62328;A0A3Q1LXR1;G8JKY5;A0A0A0MPA1;A0A3Q1MS48;A0A3Q1MJ46","2;2;1;1;1;1;1","2;2;1;1;1;1;1","2;2;1;1;1;1;1","Thymosin beta-4;Thymosin beta-4;Thymosin beta;Thymosin beta;Uncharacterized protein;Uncharacterized protein;Uncharacterized protein",7,2,2,2
+"561","P62935;G3X8B1;E5RIZ5;A0A3Q1M9Y7;A0A3Q1LSB7","P62935","5;2;1;1;1","1;1;0;0;1","1;1;0;0;1","Peptidyl-prolyl cis-trans isomerase A",5,5,1,1
+"562","P62937;F8WE65;C9J5S7","P62937;F8WE65;C9J5S7","6;4;4","6;4;4","2;1;1","Peptidyl-prolyl cis-trans isomerase A;Peptidyl-prolyl cis-trans isomerase;Peptidyl-prolyl cis-trans isomerase",3,6,6,2
+"563","P63103;P63104;E7EX29;B0AZS6;B7Z2E6;E1BDS9;H0YB80;E7ESK7;E5RGE1;E5RIR4;E9PD24;E7EVZ2;P68509;P68250;A0A140T894;Q0VC36;Q04917;P31946;P31947;Q4VY20;A0A0J9YWZ2;B4DJF2;Q4VY19;I3L3T1;K7EIT4;A0A0J9YWE8;A2IDB2","P63103;P63104;E7EX29;B0AZS6;B7Z2E6;E1BDS9;H0YB80","7;7;6;5;4;4;4;3;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1","7;7;6;5;4;4;4;3;2;2;2;2;2;2;2;2;2;2;2;1;1;1;1;1;1;1;1","5;5;4;4;3;3;3;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0","14-3-3 protein zeta/delta;14-3-3 protein zeta/delta;14-3-3 protein zeta/delta (Fragment);14-3-3 protein zeta/delta;14-3-3 protein zeta/delta;14_3_3 domain-containing protein;14-3-3 protein zeta/delta (Fragment)",27,7,7,5
+"564","P63258;P63261;I3L3I0;I3L1U9;I3L4N8;I3L3R2;K7EM38;J3KT65","P63258;P63261","27;27;12;12;11;9;8;8","1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1","Actin, cytoplasmic 2;Actin, cytoplasmic 2",8,27,1,1
+"565","Q3ZC07;P68032;A0A452DJE4;G8JKX4;P68138;P62739;P68133;P62736;Q5E9B5;P63267;A6NL76;A0A3Q1M558;C9JFL5;F6UVQ4;F6QUT6","Q3ZC07;P68032;A0A452DJE4;G8JKX4;P68138;P62739;P68133;P62736;Q5E9B5;P63267;A6NL76;A0A3Q1M558","13;13;12;12;12;12;12;12;11;11;10;10;6;6;6","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","1;1;1;1;1;1;1;1;1;1;1;1;1;1;1","Actin, alpha cardiac muscle 1;Actin, alpha cardiac muscle 1;Actin, aortic smooth muscle;Actin, aortic smooth muscle;Actin, alpha skeletal muscle;Actin, aortic smooth muscle;Actin, alpha skeletal muscle;Actin, aortic smooth muscle;Actin, gamma-enteric smoot",15,13,1,1
+"566","P68103;Q5VTE0;P68104;E1B9F6;A0A087WVQ9;A0A087WV01;Q32PH8;A0A2U3TZH3;Q05639;A6PW80;Q5JR01;A0A2R8Y660;A0A2R8Y488","P68103;Q5VTE0;P68104;E1B9F6;A0A087WVQ9;A0A087WV01;Q32PH8;A0A2U3TZH3;Q05639","8;8;8;7;7;5;4;4;4;1;1;1;1","8;8;8;7;7;5;4;4;4;1;1;1;1","8;8;8;7;7;5;4;4;4;1;1;1;1","Elongation factor 1-alpha 1;Putative elongation factor 1-alpha-like 3;Elongation factor 1-alpha 1;Elongation factor 1-alpha;Elongation factor 1-alpha 1;Elongation factor 1-alpha;Elongation factor 1-alpha 2;Elongation factor 1-alpha;Elongation factor 1-alph",13,8,8,8
+"567","P81947;P68363;A0A452DIK7","P81947;P68363;A0A452DIK7","12;12;10","2;2;2","0;0;0","Tubulin alpha-1B chain;Tubulin alpha-1B chain;Tubulin alpha chain",3,12,2,0
+"568","Q3MHM5;P68371;A0A452DI48;Q3ZBU7;P04350;Q2HJ81;K7ESM5;Q9BUF5;A6NNZ2;M0QY85;M0R2D3;M0QZL7;M0R278;G3V2A3;A0A3Q1LNI7;M0R1I1;M0R0X0;M0R2T4;M0QY37;M0QX14;M0R042;M0QYM7","Q3MHM5;P68371;A0A452DI48;Q3ZBU7;P04350;Q2HJ81","12;12;10;9;9;6;4;4;3;2;2;2;2;2;2;1;1;1;1;1;1;1","1;1;0;1;1;0;0;0;0;1;1;1;1;0;0;0;1;1;1;1;1;1","1;1;0;1;1;0;0;0;0;1;1;1;1;0;0;0;1;1;1;1;1;1","Tubulin beta-4B chain;Tubulin beta-4B chain;Tubulin beta chain;Tubulin beta-4A chain;Tubulin beta-4A chain;Tubulin beta-6 chain",22,12,1,1
+"569","P79105;A0A452DJ46","P79105;A0A452DJ46","2;1","2;1","2;1","Protein S100-A12;Protein S100",2,2,2,2
+"570","P80109","P80109","17","17","3","Phosphatidylinositol-glycan-specific phospholipase D",1,17,17,3
+"571","P80189","P80189","1","1","1","Lysozyme C, non-stomach isozyme",1,1,1,1
+"572","P80425;A8MW49;P07148","P80425","7;1;1","7;1;1","7;1;1","Fatty acid-binding protein, liver",3,7,7,7
+"573","P82943","P82943","2","2","2","Regakine-1",1,2,2,2
+"574","P98160","P98160","16","5","5","Basement membrane-specific heparan sulfate proteoglycan core protein",1,16,5,5
+"575","Q08380","Q08380","1","1","1","Galectin-3-binding protein",1,1,1,1
+"576","Q08DQ6","Q08DQ6","1","1","1","Zyxin",1,1,1,1
+"577","Q09TE3;P35858","Q09TE3","21;2","21;2","21;2","Insulin-like growth factor binding protein acid labile subunit",2,21,21,21
+"578","Q12805;A0A0U1RQV3;Q580Q6","Q12805;A0A0U1RQV3","11;8;3","2;2;1","2;2;1","EGF-containing fibulin-like extracellular matrix protein 1;EGF-containing fibulin-like extracellular matrix protein 1 (Fragment)",3,11,2,2
+"579","Q15063;B1ALD9","Q15063;B1ALD9","27;23","2;2","2;2","Periostin;Periostin",2,27,2,2
+"580","Q15113","Q15113","4","1","1","Procollagen C-endopeptidase enhancer 1",1,4,1,1
+"581","Q15582;H0Y8L3;H0Y9D7;S4R3C6;H0Y8M8;H0YAB8","Q15582;H0Y8L3","22;12;6;6;5;3","9;6;5;4;2;3","9;6;5;4;2;3","Transforming growth factor-beta-induced protein ig-h3;Transforming growth factor-beta-induced protein ig-h3 (Fragment)",6,22,9,9
+"582","Q16270;F1MPP2","Q16270;F1MPP2","5;3","5;3","5;3","Insulin-like growth factor-binding protein 7;Insulin like growth factor binding protein 7",2,5,5,5
+"583","Q16658;C9JPH9;C9JFC0;A0A0A0MSB2;Q3MHK9","Q16658;C9JPH9;C9JFC0;A0A0A0MSB2;Q3MHK9","2;1;1;1;1","2;1;1;1;1","2;1;1;1;1","Fascin;Fascin (Fragment);Fascin (Fragment);Fascin (Fragment);Fascin",5,2,2,2
+"584","Q28017;Q1RML9","Q28017;Q1RML9","5;5","5;5","4;4","Platelet-activating factor acetylhydrolase;Platelet-activating factor acetylhydrolase",2,5,5,4
+"585","Q58DH9;Q1RMM9","Q58DH9;Q1RMM9","2;2","2;2","2;2","Alpha-N-acetylgalactosaminidase;Alpha-galactosidase",2,2,2,2
+"586","Q1RMN9","Q1RMN9","7","2","2","C4b-binding protein alpha-like",1,7,2,2
+"587","Q27975;Q27965;A0A0G2JIW1;P0DMV9;P0DMV8","Q27975;Q27965;A0A0G2JIW1;P0DMV9;P0DMV8","5;5;4;4;4","3;3;2;2;2","2;2;1;1;1","Heat shock 70 kDa protein 1A;Heat shock 70 kDa protein 1B;Heat shock 70 kDa protein 1B;Heat shock 70 kDa protein 1B;Heat shock 70 kDa protein 1A",5,5,3,2
+"588","Q27967;Q13103","Q27967","8;1","8;1","8;1","Secreted phosphoprotein 24",2,8,8,8
+"589","Q28178","Q28178","54","1","0","Thrombospondin-1",1,54,1,0
+"590","Q29451;A0A452DI46","Q29451;A0A452DI46","9;8","9;8","6;5","Lysosomal alpha-mannosidase;Alpha-mannosidase",2,9,9,6
+"591","Q29RR9","Q29RR9","3","3","3","Chemokine (C-C motif) ligand 14",1,3,3,3
+"592","Q29RY7;A0A1B0GVK0;Q14314","Q29RY7;A0A1B0GVK0;Q14314","3;2;2","3;2;2","3;2;2","Fibroleukin;Fibroleukin;Fibroleukin",3,3,3,3
+"593","Q2HJ57;H3BT58;Q14019","Q2HJ57;H3BT58;Q14019","4;3;3","4;3;3","4;3;3","Coactosin-like protein;Coactosin-like protein;Coactosin-like protein",3,4,4,4
+"594","Q2HJB6","Q2HJB6","11","11","8","Procollagen C-endopeptidase enhancer",1,11,11,8
+"595","Q2KIV9","Q2KIV9","4","4","4","Complement C1q subcomponent subunit B",1,4,4,4
+"596","Q2KIW4;I3L1Q6;J3QKT0;J3QSE5;P04180","Q2KIW4","9;1;1;1;1","9;1;1;1;1","9;1;1;1;1","Lecithin-cholesterol acyltransferase",5,9,9,9
+"597","Q2KIX7","Q2KIX7","6","6","6","Protein HP-25 homolog 1",1,6,6,6
+"598","Q2KJ39;A0A3Q1NEH4;A0A3Q1M1S6;Q96D15;M0QZH0;M0QYB8;M0QZU3","Q2KJ39;A0A3Q1NEH4;A0A3Q1M1S6;Q96D15;M0QZH0","6;5;5;5;3;2;1","6;5;5;5;3;2;1","6;5;5;5;3;2;1","Reticulocalbin-3;Reticulocalbin-3;Reticulocalbin-3;Reticulocalbin-3;Reticulocalbin-3 (Fragment)",7,6,6,6
+"599","Q2KJ63;X6R3B1","Q2KJ63","30;1","30;1","29;0","Plasma kallikrein",2,30,30,29
+"600","Q2KJB3;A0A3Q1LFZ4;Q9Y5C1","Q2KJB3;A0A3Q1LFZ4","12;10;2","12;10;2","12;10;2","Angiopoietin-like 3;Angiopoietin like 3",3,12,12,12
+"601","Q2KJH6;P50454;H0YEP8;E9PLA6;E9PJH8;E9PIG2;E9PRS3;E9PKH2;E9PNX1;E9PK86;E9PMI5;E9PR70;E9PPV6","Q2KJH6;P50454","4;2;1;1;1;1;1;1;1;1;1;1;1","4;2;1;1;1;1;1;1;1;1;1;1;1","4;2;1;1;1;1;1;1;1;1;1;1;1","Serpin H1;Serpin H1",13,4,4,4
+"603","Q32L76","Q32L76","3","3","3","Serum amyloid A-4 protein",1,3,3,3
+"604","Q32PA1","Q32PA1","2","2","2","CD59 molecule",1,2,2,2
+"605","Q3MHL4;A0A3Q1LW27;P23526;A0A3Q1M2N8;A0A3Q1MBY7;A0A3Q1LYW5;A0A3Q1N3M8;A6QLP2","Q3MHL4;A0A3Q1LW27;P23526","12;11;8;1;1;1;1;1","12;11;8;1;1;1;1;1","12;11;8;1;1;1;1;1","Adenosylhomocysteinase;Adenosylhomocysteinase;Adenosylhomocysteinase",8,12,12,12
+"606","Q9XTA3;Q3SX06","Q9XTA3;Q3SX06","3;3","3;3","3;3","Myocilin;Myocilin",2,3,3,3
+"607","Q3SYR8;D6RHJ6;D6RD17;P01591","Q3SYR8;D6RHJ6;D6RD17;P01591","4;2;2;2","4;2;2;2","4;2;2;2","Immunoglobulin J chain;Immunoglobulin J chain (Fragment);Immunoglobulin J chain (Fragment);Immunoglobulin J chain",4,4,4,4
+"608","Q3SZB7;A0A3B3IUC7;A0A3Q1MK34;Q2KJJ9;P09467;O00757","Q3SZB7","4;1;1;1;1;1","4;1;1;1;1;1","4;1;1;1;1;1","Fructose-1,6-bisphosphatase 1",6,4,4,4
+"609","Q3SZV7","Q3SZV7","32","32","4","Hemopexin",1,32,32,4
+"610","Q3T004;P02743","Q3T004","10;1","10;1","10;1","Serum amyloid P-component",2,10,10,10
+"611","Q3T0A3;K7ERG9;P00746","Q3T0A3","11;1;1","11;1;1","11;1;1","Complement factor D",3,11,11,11
+"612","Q3T0E0","Q3T0E0","2","2","2","Copper transport protein ATOX1",1,2,2,2
+"614","Q3ZC85","Q3ZC85","4","4","4","Plasmalemma vesicle associated protein",1,4,4,4
+"615","Q3ZCJ2","Q3ZCJ2","2","2","2","Aldo-keto reductase family 1 member A1",1,2,2,2
+"616","Q3ZCL0","Q3ZCL0","4","4","4","Cysteine-rich secretory protein 2",1,4,4,4
+"617","Q58CQ9","Q58CQ9","20","20","2","Pantetheinase",1,20,20,2
+"618","Q58CS8;A0A3Q1MMU4","Q58CS8","3;1","3;1","3;1","N-acetylglucosamine-1-phosphotransferase subunit gamma",2,3,3,3
+"619","Q58D34","Q58D34","2","2","2","Peptidase inhibitor 16",1,2,2,2
+"620","Q58DL9;P55058","Q58DL9","14;3","14;3","14;3","Phospholipid transfer protein",2,14,14,14
+"621","Q5DPW9","Q5DPW9","7","7","7","Cystatin E/M",1,7,7,7
+"622","Q5E9B7;O00299","Q5E9B7;O00299","3;2","3;2","3;2","Chloride intracellular channel protein 1;Chloride intracellular channel protein 1",2,3,3,3
+"623","Q5E9C0;A0A3Q1M5B4;Q15404","Q5E9C0;A0A3Q1M5B4;Q15404","4;3;3","4;3;3","4;3;3","Ras suppressor protein 1;Ras suppressor protein 1;Ras suppressor protein 1",3,4,4,4
+"624","Q5E9E3","Q5E9E3","3","3","3","Complement C1q subcomponent subunit A",1,3,3,3
+"625","Q5E9F5;X6RJP6;P37802;A0A3Q1LKJ1","Q5E9F5;X6RJP6;P37802","10;7;7;3","10;7;7;3","10;7;7;3","Transgelin-2;Transgelin-2 (Fragment);Transgelin-2",4,10,10,10
+"626","Q5E9F7","Q5E9F7","5","5","1","Cofilin-1",1,5,5,1
+"627","Q5E9I4","Q5E9I4","2","2","2","MGAT1 protein",1,2,2,2
+"628","Q5E9Z2;Q14520","Q5E9Z2","16;3","16;3","16;3","Hyaluronan-binding protein 2",2,16,16,16
+"629","Q5EA01;O43505","Q5EA01;O43505","4;3","4;3","4;3","Beta-1,4-glucuronyltransferase 1;Beta-1,4-glucuronyltransferase 1",2,4,4,4
+"630","Q5EA20;A0A3Q1N2P4;A0A0B4J1R4;A0A3Q1LG51;P32754","Q5EA20;A0A3Q1N2P4","4;3;1;1;1","4;3;1;1;1","4;3;1;1;1","4-hydroxyphenylpyruvate dioxygenase;4-hydroxyphenylpyruvate dioxygenase",5,4,4,4
+"631","Q5NTB3","Q5NTB3","23","1","1","Coagulation factor XI",1,23,1,1
+"634","Q8NBS9;A0A3Q1LUG9","Q8NBS9;A0A3Q1LUG9","2;1","2;1","2;1","Thioredoxin domain-containing protein 5;Uncharacterized protein",2,2,2,2
+"635","Q8SPP7;A0A3Q1LPB6","Q8SPP7;A0A3Q1LPB6","6;3","6;3","6;3","Peptidoglycan recognition protein 1;Peptidoglycan recognition protein 1",2,6,6,6
+"636","Q92626;A0A3Q1MSA0;A0A3Q1LMN6;H7C1W1;H7C3W2","Q92626;A0A3Q1MSA0;A0A3Q1LMN6","5;3;3;2;1","5;3;3;2;1","5;3;3;2;1","Peroxidasin homolog;Peroxidasin;Peroxidasin",5,5,5,5
+"637","Q96MT7;H0Y896","Q96MT7;H0Y896","2;1","2;1","2;1","Cilia- and flagella-associated protein 44;Cilia- and flagella-associated protein 44 (Fragment)",2,2,2,2
+"638","Q9BGI3;A6NIW5;P32119","Q9BGI3","9;2;2","9;2;2","9;2;2","Peroxiredoxin-2",3,9,9,9
+"639","Q9GKR3;P19320","Q9GKR3","12;1","12;1","6;1","Vascular cell adhesion molecule-1 7D variant",2,12,12,6
+"640","Q9H2G4","Q9H2G4","1","1","1","Testis-specific Y-encoded-like protein 2",1,1,1,1
+"641","Q9H3Z7","Q9H3Z7","1","1","1","Protein ABHD16B",1,1,1,1
+"642","Q9TTK6;E1BD43","Q9TTK6;E1BD43","12;11","3;2","2;1","Membrane primary amine oxidase;Amine oxidase",2,12,3,2
