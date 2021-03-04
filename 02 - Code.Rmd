@@ -138,6 +138,7 @@ romics_proteins<-romicsZscores(romics_proteins)
 The data was exported 
 ```{r export_results}
 results<-romicsExportData(romics_proteins,statistics = T,missing_data = T)
+save(romics_proteins,file="./03 - Output files/romics_proteins.rda")
 write.csv(results, "./03 - Output files/implantation_proteomics_complete_results.csv")
 ```
 
